@@ -1,0 +1,45 @@
+{
+  "Components": [
+    {
+      "Name": "Azimer's Audio Plugin",
+      "Urls": {
+        "https://github.com/Azimer/AziAudio/files/1591596/AziAudio.v0.70.WIP10.zip": "AziAudio.zip"
+      },
+      "FileSizes": [
+        58818761
+      ],
+      "Files": {
+        "AziAudio v0.70 WIP10.dll": "Plugin\\Audio\\AziAudio v0.70 WIP10.dll"
+      }
+    },
+    {
+      "Name": "GlideN64 GFX Plugin",
+      "Urls": {
+        "gdrive:14fgffHHxnnNULRwf4c-4pY1scV6SOITc": "GLideN64.7z"
+      },
+      "FileSizes": [
+        5003466
+      ],
+      "Files": {
+        "GLideN64\\Zilmar-specs\\GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
+        "GLideN64\\Zilmar-specs\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
+      }
+    },
+    {
+      "Name": "MM HD Texture Pack",
+      "Urls": {
+        "gdrive:1B_XetHFdS-Nx15rvzhxfVep81aSFJ0bJ": "mmhd.zip.001",
+        "gdrive:103P0snXU3j1kmNMA0gELc2BkEL3Mq7sA": "mmhd.zip.002",
+        "gdrive:1rBCOYsZnuqVIDoQk1TOjWfd6Zy0itcxB": "mmhd.zip.003"
+      },
+      "FileSizes": [
+        943718400,
+        943718400,
+        609021060
+      ],
+      "Files": {
+        "ZELDA MAJORA'S MASK_HIRESTEXTURES.htc": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.htc"
+      }
+    }
+  ]
+}
