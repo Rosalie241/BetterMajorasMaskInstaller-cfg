@@ -52,6 +52,20 @@
       "Files": {
         "ZELDA MAJORA'S MASK_HIRESTEXTURES.htc": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.htc"
       }
+    },
+    {
+     "Name": "Configuration Files",
+      "Urls": {
+        "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip": "configs.zip"
+      },
+      "FileSizes": [
+        1058
+      ],
+      "Files": {
+        "rsp_conf.bin": "rsp_conf.bin",
+        "Config\\Project64.cfg": "Config\\Project64.cfg",
+        "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini"
+      }
     }
   ]
 }
