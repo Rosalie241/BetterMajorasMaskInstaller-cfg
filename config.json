@@ -26,6 +26,18 @@
       }
     },
     {
+      "Name": "Iconoclast's Static RSP Interpreter",
+      "Urls": {
+        "https://github.com/tim241/rsp/releases/download/v1/rsp.zip"
+      },
+      "FileSizes": [
+        19519
+      ],
+      "Files": {
+       "rsp.dll": "Plugin\\RSP\\rsp.dll" 
+      }
+    },
+    {
       "Name": "MM HD Texture Pack",
       "Urls": {
         "gdrive:1B_XetHFdS-Nx15rvzhxfVep81aSFJ0bJ": "mmhd.zip.001",
