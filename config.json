@@ -28,7 +28,7 @@
     {
       "Name": "Iconoclast's Static RSP Interpreter",
       "Urls": {
-        "https://github.com/tim241/rsp/releases/download/v1/rsp.zip"
+        "https://github.com/tim241/rsp/releases/download/v1/rsp.zip": "rsp.zip"
       },
       "FileSizes": [
         19519
