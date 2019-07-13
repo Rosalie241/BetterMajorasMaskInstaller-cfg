@@ -2,11 +2,13 @@
   "Components": [
     {
       "Name": "Azimer's Audio Plugin",
-      "Urls": {
-        "https://github.com/Azimer/AziAudio/files/1591596/AziAudio.v0.70.WIP10.zip": "AziAudio.zip"
-      },
-      "FileSizes": [
-        96221
+      "Urls": [
+        {
+          "Url": "https://github.com/Azimer/AziAudio/files/1591596/AziAudio.v0.70.WIP10.zip",
+          "FileName": "AziAudio.zip",
+          "FileHash": "aa857b8ad9f4f1c310d95b464c1617dd",
+          "FileSize": 96221
+        }
       ],
       "Files": {
         "AziAudio v0.70 WIP10.dll": "Plugin\\Audio\\AziAudio v0.70 WIP10.dll"
@@ -14,11 +16,13 @@
     },
     {
       "Name": "GlideN64 GFX Plugin",
-      "Urls": {
-        "gdrive:14fgffHHxnnNULRwf4c-4pY1scV6SOITc": "GLideN64.7z"
-      },
-      "FileSizes": [
-        5003466
+      "Urls": [
+        {
+          "Url": "gdrive:14fgffHHxnnNULRwf4c-4pY1scV6SOITc",
+          "FileName": "GLideN64.7z",
+          "FileHash": "ee30fb00501eeb577572ec208f3af4f0",
+          "FileSize": 5003466
+        }
       ],
       "Files": {
         "GLideN64\\Zilmar-specs\\GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
@@ -27,39 +31,53 @@
     },
     {
       "Name": "Iconoclast's Static RSP Interpreter",
-      "Urls": {
-        "https://github.com/tim241/rsp/releases/download/v1/rsp.zip": "rsp.zip"
-      },
-      "FileSizes": [
-        19519
+      "Urls": [
+        {
+          "Url": "https://github.com/tim241/rsp/releases/download/v1/rsp.zip",
+          "FileName": "rsp.zip",
+          "FileHash": "a074dfedf8dd71412428b764b5409ce3",
+          "FileSize": 19519
+        }
       ],
       "Files": {
-       "rsp.dll": "Plugin\\RSP\\rsp.dll" 
+        "rsp.dll": "Plugin\\RSP\\rsp.dll"
       }
     },
     {
       "Name": "MM HD Texture Pack",
-      "Urls": {
-        "gdrive:1B_XetHFdS-Nx15rvzhxfVep81aSFJ0bJ": "mmhd.zip.001",
-        "gdrive:103P0snXU3j1kmNMA0gELc2BkEL3Mq7sA": "mmhd.zip.002",
-        "gdrive:1rBCOYsZnuqVIDoQk1TOjWfd6Zy0itcxB": "mmhd.zip.003"
-      },
-      "FileSizes": [
-        943718400,
-        943718400,
-        609021060
+      "Urls": [
+        {
+          "Url": "gdrive:1B_XetHFdS-Nx15rvzhxfVep81aSFJ0bJ",
+          "FileName": "mmhd.zip.001",
+          "FileHash": "3816b7e69ad478028031e60d4f6ef0d2",
+          "FileSize": 943718400
+        },
+        {
+          "Url": "gdrive:103P0snXU3j1kmNMA0gELc2BkEL3Mq7sA",
+          "FileName": "mmhd.zip.002",
+          "FileHash": "34775d6f1dc61d3ba5981c4aa3f17a70",
+          "FileSize": 943718400
+        },
+        {
+          "Url": "gdrive:1rBCOYsZnuqVIDoQk1TOjWfd6Zy0itcxB",
+          "FileName": "mmhd.zip.002",
+          "FileHash": "0f1a9f9ff455d88d5f9ed3fe061577be",
+          "FileSize": 609021060
+        }
       ],
       "Files": {
         "ZELDA MAJORA'S MASK_HIRESTEXTURES.htc": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.htc"
       }
     },
     {
-     "Name": "Configuration Files",
-      "Urls": {
-        "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip": "configs.zip"
-      },
-      "FileSizes": [
-        1069
+      "Name": "Configuration Files",
+      "Urls": [
+        {
+          "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
+          "FileName": "configs.zip",
+          "FileHash": "a2f638ea3621dfc022cfa2a1d34555b1",
+          "FileSize": 1069
+        }
       ],
       "Files": {
         "rsp_conf.bin": "rsp_conf.bin",
