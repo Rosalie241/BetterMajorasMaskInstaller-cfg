@@ -2,6 +2,7 @@
   "Components": [
     {
       "Name": "Azimer's Audio Plugin",
+      "Enabled": true,
       "Urls": [
         {
           "Url": "https://github.com/Azimer/AziAudio/files/1591596/AziAudio.v0.70.WIP10.zip",
@@ -16,6 +17,7 @@
     },
     {
       "Name": "GlideN64 GFX Plugin",
+      "Enabled": true,
       "Urls": [
         {
           "Url": "gdrive:14fgffHHxnnNULRwf4c-4pY1scV6SOITc",
@@ -31,6 +33,7 @@
     },
     {
       "Name": "Iconoclast's Static RSP Interpreter",
+      "Enabled": true,
       "Urls": [
         {
           "Url": "https://github.com/tim241/rsp/releases/download/v1/rsp.zip",
@@ -45,6 +48,7 @@
     },
     {
       "Name": "MM HD Texture Pack",
+      "Enabled": true,
       "Urls": [
         {
           "Url": "gdrive:1B_XetHFdS-Nx15rvzhxfVep81aSFJ0bJ",
@@ -71,6 +75,7 @@
     },
     {
       "Name": "Configuration Files",
+      "Enabled": true,
       "Urls": [
         {
           "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
