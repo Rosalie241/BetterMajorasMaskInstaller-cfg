@@ -101,13 +101,14 @@
         {
           "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "1919e0fac90b9b5ad016f3a2c8c5e7f1",
-          "FileSize": 1992
+          "FileHash": "e6f23cf16f1161df753c7902fddb174e",
+          "FileSize": 2250
         }
       ],
       "Files": {
         "rsp_conf.bin": "rsp_conf.bin",
         "Config\\Project64.cfg": "Config\\Project64.cfg",
+        "Config\\AziCfg.bin": "Config\\AziCfg.bin",
         "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini"
       }
     }
