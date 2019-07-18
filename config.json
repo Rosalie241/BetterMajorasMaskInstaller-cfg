@@ -50,7 +50,7 @@
       }
     },
     {
-      "Name": "Configuration UI for the RSP plugin (spconfig)",
+      "Name": "Configuration Tool for RSP Plugin (spconfig)",
       "Enabled": true,
       "Archive": false,
       "Urls": [
