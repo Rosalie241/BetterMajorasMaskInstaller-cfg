@@ -3,6 +3,7 @@
     {
       "Name": "Azimer's Audio Plugin",
       "Enabled": true,
+      "Archive": true,
       "Urls": [
         {
           "Url": "https://github.com/Azimer/AziAudio/files/1591596/AziAudio.v0.70.WIP10.zip",
@@ -18,6 +19,7 @@
     {
       "Name": "GlideN64 GFX Plugin",
       "Enabled": true,
+      "Archive": true,
       "Urls": [
         {
           "Url": "gdrive:14fgffHHxnnNULRwf4c-4pY1scV6SOITc",
@@ -34,6 +36,7 @@
     {
       "Name": "Iconoclast's Static RSP Interpreter",
       "Enabled": true,
+      "Archive": true,
       "Urls": [
         {
           "Url": "https://github.com/tim241/rsp/releases/download/v1/rsp.zip",
@@ -47,8 +50,25 @@
       }
     },
     {
+      "Name": "Configuration UI for the RSP plugin (spconfig)",
+      "Enabled": true,
+      "Archive": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/cxd4/spconfig/releases/download/v1.1/spconfig.exe",
+          "FileName": "spconfig.exe",
+          "FileHash": "32da2bedf5b390a858a6e3ae4c749180",
+          "FileSize": 3072
+        }
+      ],
+      "Files": {
+        "spconfig.exe": "spconfig.exe"
+      }
+    },
+    {
       "Name": "MM HD Texture Pack",
       "Enabled": true,
+      "Archive": true,
       "Urls": [
         {
           "Url": "gdrive:1B_XetHFdS-Nx15rvzhxfVep81aSFJ0bJ",
@@ -74,8 +94,9 @@
       }
     },
     {
-      "Name": "Configuration Files",
+      "Name": "Custom Configuration Files",
       "Enabled": true,
+      "Archive": true,
       "Urls": [
         {
           "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
