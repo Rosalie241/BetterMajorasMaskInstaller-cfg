@@ -34,7 +34,7 @@
       }
     },
     {
-      "Name": "Iconoclast's Static RSP Interpreter",
+      "Name": "Iconoclast's Static RSP Interpreter Plugin",
       "Enabled": true,
       "Archive": true,
       "Urls": [
@@ -101,8 +101,8 @@
         {
           "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "d42eb4de47ca0e129002b0150ad2b491",
-          "FileSize": 2265
+          "FileHash": "a9e3f67cdf4a43374abb6bb1e5b66f16",
+          "FileSize": 2266
         }
       ],
       "Files": {
