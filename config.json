@@ -61,7 +61,7 @@
         }
       ],
       "Files": {
-        "rsp.dll": "Plugin\\RSP\rsp.dll"
+        "rsp.dll": "Plugin\\RSP\\rsp.dll"
       }
     },
     {
