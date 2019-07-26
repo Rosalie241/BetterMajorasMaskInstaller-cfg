@@ -22,14 +22,29 @@
       "Archive": true,
       "Urls": [
         {
-          "Url": "gdrive:14fgffHHxnnNULRwf4c-4pY1scV6SOITc",
+          "Url": "gdrive:1ZpBArZoI1q1-KGuZaFR-n7__xOWGJVOM",
           "FileName": "GLideN64.7z",
+          "FileHash": "cf0f4f923c753103ef3e2cbda57ddd87",
+          "FileSize": 4001092
+        }
+      ],
+      "Files": {
+        "GLideN64.dll": "Plugin\\GFX\\GLideN64.dll"
+      }
+    },
+    {
+      "Name": "GlideN64 GFX Plugin Configuration",
+      "Enabled": true,
+      "Archive": true,
+      "Urls": [
+        {
+          "Url": "gdrive:14fgffHHxnnNULRwf4c-4pY1scV6SOITc",
+          "FileName": "GLideN64-Config.7z",
           "FileHash": "ee30fb00501eeb577572ec208f3af4f0",
           "FileSize": 5003466
         }
       ],
       "Files": {
-        "GLideN64\\Zilmar-specs\\GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
         "GLideN64\\Zilmar-specs\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
       }
     },
@@ -46,7 +61,7 @@
         }
       ],
       "Files": {
-        "rsp.dll": "Plugin\\RSP\\rsp.dll"
+        "rsp.dll": "Plugin\\RSP\rsp.dll"
       }
     },
     {
