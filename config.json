@@ -49,6 +49,22 @@
       }
     },
     {
+      "Name": "AngryLion-rdp-plus GFX Plugin",
+      "Enabled": true,
+      "Archive": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/ata4/angrylion-rdp-plus/releases/download/r8/angrylion-plus.dll",
+          "FileName": "angrylion-plus.dll",
+          "FileHash": "b5c50100fe75b7ca37729b105f164ba2",
+          "FileSize": 477696
+        }
+      ],
+      "Files": {
+        "angrylion-plus.dll": "Plugin\\GFX\\angrylion-plus.dll"
+      }
+    },
+    {
       "Name": "Iconoclast's Static RSP Interpreter Plugin",
       "Enabled": true,
       "Archive": true,
