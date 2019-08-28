@@ -22,30 +22,15 @@
       "Archive": true,
       "Urls": [
         {
-          "Url": "gdrive:1ZpBArZoI1q1-KGuZaFR-n7__xOWGJVOM",
+          "Url": "gdrive:15IFiEiLesOb7Ad5F8FxdWkqc0wdGXe6E",
           "FileName": "GLideN64.7z",
-          "FileHash": "cf0f4f923c753103ef3e2cbda57ddd87",
-          "FileSize": 4001092
+          "FileHash": "439e18e14775f3daf9a17c4ff5d83750",
+          "FileSize": 4921352
         }
       ],
       "Files": {
-        "GLideN64.dll": "Plugin\\GFX\\GLideN64.dll"
-      }
-    },
-    {
-      "Name": "GlideN64 GFX Plugin Configuration",
-      "Enabled": true,
-      "Archive": true,
-      "Urls": [
-        {
-          "Url": "gdrive:14fgffHHxnnNULRwf4c-4pY1scV6SOITc",
-          "FileName": "GLideN64-Config.7z",
-          "FileHash": "ee30fb00501eeb577572ec208f3af4f0",
-          "FileSize": 5003466
-        }
-      ],
-      "Files": {
-        "GLideN64\\Zilmar-specs\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
+        "Zilmar-specs\\GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
+		"Zilmar-specs\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
       }
     },
     {
@@ -132,15 +117,17 @@
         {
           "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "9e79e25fcd68ff2b708eaf3800584168",
-          "FileSize": 5361
+          "FileHash": "e468621fb8dfa5a7e57ef128fa2e663b",
+          "FileSize": 5681
         }
       ],
       "Files": {
         "rsp_conf.bin": "rsp_conf.bin",
         "Config\\Project64.cfg": "Config\\Project64.cfg",
         "Config\\AziCfg.bin": "Config\\AziCfg.bin",
-        "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini"
+        "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini",
+		    "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
+		    "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture"
       }
     }
   ]
