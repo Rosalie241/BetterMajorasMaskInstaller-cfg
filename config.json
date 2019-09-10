@@ -2,6 +2,7 @@
   "Components": [
     {
       "Name": "Azimer's Audio Plugin",
+      "Description": "Azimer's Audio Plugin",
       "Enabled": true,
       "DisableOnSelected": null,
       "Archive": true,
@@ -20,6 +21,7 @@
     },
     {
       "Name": "GlideN64 GFX Plugin",
+      "Description": "A new generation, open-source graphics plugin for N64 emulators.",
       "Enabled": true,
       "DisableOnSelected": null,
       "Archive": true,
@@ -38,7 +40,8 @@
       "Patches": null
     },
     {
-      "Name": "AngryLion-rdp-plus GFX Plugin",
+      "Name": "Angrylion RDP Plus GFX Plugin",
+      "Description": "A low-level N64 video emulation plugin, based on the pixel-perfect angrylion RDP plugin with some improvements.",
       "Enabled": true,
       "DisableOnSelected": null,
       "Archive": false,
@@ -57,6 +60,7 @@
     },
     {
       "Name": "Iconoclast's Static RSP Interpreter Plugin",
+      "Description": "Exemplary MSP communications simulator using a normalized VU.",
       "Enabled": true,
       "DisableOnSelected": null,
       "Archive": true,
@@ -75,6 +79,7 @@
     },
     {
       "Name": "Configuration Tool for RSP Plugin (spconfig)",
+      "Description": "Configuration UI for the RSP plugin.",
       "Enabled": true,
       "DisableOnSelected": null,
       "Archive": false,
@@ -92,11 +97,12 @@
       "Patches": null
     },
     {
-      "Name": "MM HD Texture Pack (HTC Pack)",
+      "Name": "MMN64HD HTC Texture Pack",
+      "Description": "Prefetched Ram Cache (loads on startup, faster than the PNG Pack), 4GB+ RAM (Recommended)",
       "Enabled": true,
       "DisableOnSelected": [
-	    "MM HD Texture Pack (HTS Pack)",
-        "MM HD Texture Pack (PNG Pack)"
+        "MMN64HD HTS Texture Pack",
+        "MMN64HD PNG Texture Pack"
       ],
       "Archive": true,
       "Urls": [
@@ -118,12 +124,13 @@
       },
       "Patches": null
     },
-	{
-      "Name": "MM HD Texture Pack (HTS Pack)",
+    {
+      "Name": "MMN64HD HTS Texture Pack",
+      "Description": "Disk Loading Cache (can introduce stuttering), for 4GB RAM or less",
       "Enabled": false,
       "DisableOnSelected": [
-	    "MM HD Texture Pack (HTC Pack)",
-        "MM HD Texture Pack (PNG Pack)"
+        "MMN64HD HTC Texture Pack",
+        "MMN64HD PNG Texture Pack"
       ],
       "Archive": true,
       "Urls": [
@@ -151,11 +158,12 @@
       }
     },
     {
-      "Name": "MM HD Texture Pack (PNG Pack)",
+      "Name": "MMN64HD PNG Texture Pack",
+      "Description": "Source textures, editable, makes caches manually, 4GB+ RAM",
       "Enabled": false,
       "DisableOnSelected": [
-	    "MM HD Texture Pack (HTS Pack)",
-        "MM HD Texture Pack (HTC Pack)"
+        "MMN64HD HTC Texture Pack",
+        "MMN64HD HTS Texture Pack"
       ],
       "Archive": true,
       "Urls": [
@@ -179,6 +187,7 @@
     },
     {
       "Name": "Custom Configuration Files",
+      "Description": "Configuration Files for Project64, GLideN64, Azimer's Audio Plugin & Iconoclast's Static RSP Interpreter",
       "Enabled": true,
       "DisableOnSelected": null,
       "Archive": true,
