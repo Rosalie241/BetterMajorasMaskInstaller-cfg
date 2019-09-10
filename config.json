@@ -3,6 +3,7 @@
     {
       "Name": "Azimer's Audio Plugin",
       "Enabled": true,
+      "DisableOnSelected": null,
       "Archive": true,
       "Urls": [
         {
@@ -14,11 +15,13 @@
       ],
       "Files": {
         "AziAudio v0.70 WIP10.dll": "Plugin\\Audio\\AziAudio v0.70 WIP10.dll"
-      }
+      },
+      "Patches": null
     },
     {
       "Name": "GlideN64 GFX Plugin",
       "Enabled": true,
+      "DisableOnSelected": null,
       "Archive": true,
       "Urls": [
         {
@@ -30,12 +33,14 @@
       ],
       "Files": {
         "Zilmar-specs\\GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
-		"Zilmar-specs\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
-      }
+        "Zilmar-specs\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
+      },
+      "Patches": null
     },
     {
       "Name": "AngryLion-rdp-plus GFX Plugin",
       "Enabled": true,
+      "DisableOnSelected": null,
       "Archive": false,
       "Urls": [
         {
@@ -47,11 +52,13 @@
       ],
       "Files": {
         "angrylion-plus.dll": "Plugin\\GFX\\angrylion-plus.dll"
-      }
+      },
+      "Patches": null
     },
     {
       "Name": "Iconoclast's Static RSP Interpreter Plugin",
       "Enabled": true,
+      "DisableOnSelected": null,
       "Archive": true,
       "Urls": [
         {
@@ -63,11 +70,13 @@
       ],
       "Files": {
         "rsp.dll": "Plugin\\RSP\\rsp.dll"
-      }
+      },
+      "Patches": null
     },
     {
       "Name": "Configuration Tool for RSP Plugin (spconfig)",
       "Enabled": true,
+      "DisableOnSelected": null,
       "Archive": false,
       "Urls": [
         {
@@ -79,46 +88,106 @@
       ],
       "Files": {
         "spconfig.exe": "spconfig.exe"
-      }
+      },
+      "Patches": null
     },
     {
-      "Name": "MM HD Texture Pack",
+      "Name": "MM HD Texture Pack (HTC Pack)",
       "Enabled": true,
+      "DisableOnSelected": [
+	    "MM HD Texture Pack (HTS Pack)",
+        "MM HD Texture Pack (PNG Pack)"
+      ],
       "Archive": true,
       "Urls": [
         {
-          "Url": "gdrive:1B_XetHFdS-Nx15rvzhxfVep81aSFJ0bJ",
-          "FileName": "mmhd.zip.001",
-          "FileHash": "3816b7e69ad478028031e60d4f6ef0d2",
-          "FileSize": 943718400
+          "Url": "gdrive:1dtqRli_g2TvCO5vBgBgAk553KfzL2xzh",
+          "FileName": "mmhd_htc.7z.001",
+          "FileHash": "bd66d443d16c11c7fd2fd3872f3c62b9",
+          "FileSize": 1468006400
         },
         {
-          "Url": "gdrive:103P0snXU3j1kmNMA0gELc2BkEL3Mq7sA",
-          "FileName": "mmhd.zip.002",
-          "FileHash": "34775d6f1dc61d3ba5981c4aa3f17a70",
-          "FileSize": 943718400
-        },
-        {
-          "Url": "gdrive:1rBCOYsZnuqVIDoQk1TOjWfd6Zy0itcxB",
-          "FileName": "mmhd.zip.003",
-          "FileHash": "0f1a9f9ff455d88d5f9ed3fe061577be",
-          "FileSize": 609021060
+          "Url": "gdrive:1Uacjt7BLMAzywE0gJi4ZzFZTooxuUbU6",
+          "FileName": "mmhd_htc.7z.002",
+          "FileHash": "ff53f88710a3505c81726985912dfd8a",
+          "FileSize": 1235876665
         }
       ],
       "Files": {
-        "ZELDA MAJORA'S MASK_HIRESTEXTURES.htc": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.htc"
+        "MMN64HD\\ZELDA MAJORA'S MASK_HIRESTEXTURES.htc": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.htc"
+      },
+      "Patches": null
+    },
+	{
+      "Name": "MM HD Texture Pack (HTS Pack)",
+      "Enabled": false,
+      "DisableOnSelected": [
+	    "MM HD Texture Pack (HTC Pack)",
+        "MM HD Texture Pack (PNG Pack)"
+      ],
+      "Archive": true,
+      "Urls": [
+        {
+          "Url": "gdrive:14PjYgZNF729mTR3FDFtZby7j5oxUFyoS",
+          "FileName": "mmhd_hts.7z.001",
+          "FileHash": "b6c0e4512bc72bb145c8b6e07dbb78d8",
+          "FileSize": 1468006400
+        },
+        {
+          "Url": "gdrive:1Gg17RcmM-qjiqB2L9Gdv5vvbzsb9t8rN",
+          "FileName": "mmhd_hts.7z.002",
+          "FileHash": "b585714d7a706ea1f122b68b557b66b0",
+          "FileSize": 1169720848
+        }
+      ],
+      "Files": {
+        "MMN64HD\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
+      },
+      "Patches": {
+        "Plugin\\GFX\\GLideN64.ini": {
+          "Key": "textureFilter\\txHiresTextureFileStorage=0",
+          "Value": "textureFilter\\txHiresTextureFileStorage=1"
+        }
       }
+    },
+    {
+      "Name": "MM HD Texture Pack (PNG Pack)",
+      "Enabled": false,
+      "DisableOnSelected": [
+	    "MM HD Texture Pack (HTS Pack)",
+        "MM HD Texture Pack (HTC Pack)"
+      ],
+      "Archive": true,
+      "Urls": [
+        {
+          "Url": "gdrive:1MZBJherbzLZak7LYmwQwb-q4dVeugr6f",
+          "FileName": "mmhd_png.7z.001",
+          "FileHash": "3b2f0f7bdc09cd704a14648d4f8f6206",
+          "FileSize": 1153433600
+        },
+        {
+          "Url": "gdrive:1-L0x22a6--i-aiyGfmULJiTasCBPkpN7",
+          "FileName": "mmhd_png.7z.002",
+          "FileHash": "0033a5c4c51069c18b1a127ba6de61d3",
+          "FileSize": 921421525
+        }
+      ],
+      "Files": {
+        "MMN64HD\\ZELDA MAJORA'S MASK\\": "Plugin\\GFX\\hires_texture\\ZELDA MAJORA'S MASK\\"
+      },
+      "Patches": null
     },
     {
       "Name": "Custom Configuration Files",
       "Enabled": true,
+      "DisableOnSelected": null,
       "Archive": true,
       "Urls": [
         {
           "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "e468621fb8dfa5a7e57ef128fa2e663b",
-          "FileSize": 5681
+          "FileHash": "4c5c1ddf18d01be9e3d2b3d2959f763c",
+          "FileSize": 5690
         }
       ],
       "Files": {
@@ -126,9 +195,10 @@
         "Config\\Project64.cfg": "Config\\Project64.cfg",
         "Config\\AziCfg.bin": "Config\\AziCfg.bin",
         "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini",
-		    "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
-		    "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture"
-      }
+        "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
+        "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture"
+      },
+      "Patches": null
     }
   ]
 }
