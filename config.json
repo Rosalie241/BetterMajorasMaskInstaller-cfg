@@ -98,11 +98,10 @@
     },
     {
       "Name": "MMN64HD HTC Texture Pack",
-      "Description": "Prefetched Ram Cache (loads on startup, faster than the PNG Pack), 4GB+ RAM (Recommended)",
+      "Description": "Prefetched Ram Cache (loads on startup), 4GB+ RAM (Recommended)",
       "Enabled": true,
       "DisableOnSelected": [
-        "MMN64HD HTS Texture Pack",
-        "MMN64HD PNG Texture Pack"
+        "MMN64HD HTS Texture Pack"
       ],
       "Archive": true,
       "Urls": [
@@ -129,8 +128,7 @@
       "Description": "Disk Loading Cache (can introduce stuttering), for 4GB RAM or less",
       "Enabled": false,
       "DisableOnSelected": [
-        "MMN64HD HTC Texture Pack",
-        "MMN64HD PNG Texture Pack"
+        "MMN64HD HTC Texture Pack"
       ],
       "Archive": true,
       "Urls": [
@@ -156,34 +154,6 @@
           "Value": "textureFilter\\txHiresTextureFileStorage=1"
         }
       }
-    },
-    {
-      "Name": "MMN64HD PNG Texture Pack",
-      "Description": "Source textures, editable, makes caches manually, 4GB+ RAM",
-      "Enabled": false,
-      "DisableOnSelected": [
-        "MMN64HD HTC Texture Pack",
-        "MMN64HD HTS Texture Pack"
-      ],
-      "Archive": true,
-      "Urls": [
-        {
-          "Url": "gdrive:1MZBJherbzLZak7LYmwQwb-q4dVeugr6f",
-          "FileName": "mmhd_png.7z.001",
-          "FileHash": "3b2f0f7bdc09cd704a14648d4f8f6206",
-          "FileSize": 1153433600
-        },
-        {
-          "Url": "gdrive:1-L0x22a6--i-aiyGfmULJiTasCBPkpN7",
-          "FileName": "mmhd_png.7z.002",
-          "FileHash": "0033a5c4c51069c18b1a127ba6de61d3",
-          "FileSize": 921421525
-        }
-      ],
-      "Files": {
-        "MMN64HD\\ZELDA MAJORA'S MASK\\": "Plugin\\GFX\\hires_texture\\ZELDA MAJORA'S MASK\\"
-      },
-      "Patches": null
     },
     {
       "Name": "Custom Configuration Files",
