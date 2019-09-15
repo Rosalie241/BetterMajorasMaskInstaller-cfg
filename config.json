@@ -99,7 +99,7 @@
     {
       "Name": "MMN64HD HTC Texture Pack",
       "Description": "Prefetched Ram Cache (loads on startup), 4GB+ RAM (Recommended)",
-      "Enabled": true,
+      "Enabled": false,
       "DisableOnSelected": [
         "MMN64HD HTS Texture Pack"
       ],
@@ -126,7 +126,7 @@
     {
       "Name": "MMN64HD HTS Texture Pack",
       "Description": "Disk Loading Cache (can introduce stuttering), for 4GB RAM or less",
-      "Enabled": false,
+      "Enabled": true,
       "DisableOnSelected": [
         "MMN64HD HTC Texture Pack"
       ],
