@@ -104,11 +104,17 @@
       "Archive": true,
       "Urls": [
         {
-          "Url": "gdrive:14lq0CM3Wp9ogUNsFSPme7vzJQR8xWCXP",
-          "FileName": "MMN64HD_HTS.zip",
-          "FileHash": "3540a452a53dbe1124a5b392c42d8e95",
-          "FileSize": 2998828190
-        }
+          "Url": "https://github.com/Nerrel/MMHD/releases/download/v11-21-19/MMN64HD.zip.001",
+          "FileName": "MMN64HD.zip.001",
+          "FileHash": "10317920cbebf54e816e958248723aad",
+          "FileSize": 1677721600
+        },
+		{
+		  "Url": "https://github.com/Nerrel/MMHD/releases/download/v11-21-19/MMN64HD.zip.002",
+		  "FileName": "MMN64HD.zip.002",
+		  "FileHash": "cbffb945dc8d07d74557c218b09ee091",
+		  "FileSize": 1347814384
+		}
       ],
       "Files": {
         "MMN64HD\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
