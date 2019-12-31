@@ -27,15 +27,15 @@
       "Archive": true,
       "Urls": [
         {
-          "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/GLideN64_dd7fe470.7z",
-          "FileName": "GLideN64.7z",
-          "FileHash": "8068f45ccbab31fa41a959d374c8f984",
-          "FileSize": 5013679
+          "Url": "appveyor:gonetz/GlideN64",
+          "FileName": null,
+          "FileHash": null,
+          "FileSize": 0
         }
       ],
       "Files": {
-        "Zilmar-specs\\GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
-        "Zilmar-specs\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
+        "Zilmar-spec\\GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
+        "Zilmar-spec\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
       },
       "Patches": null
     },
