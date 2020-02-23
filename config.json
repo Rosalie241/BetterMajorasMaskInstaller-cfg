@@ -104,16 +104,16 @@
       "Archive": true,
       "Urls": [
         	{
-          	  "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-01-21/hts-mm-n64hd-mle--2020-01-21.7z.001",
+          	  "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-02-23/hts-mm-n64hd-mle--2020-02-23.7z.001",
           	  "FileName": "MMN64HD_MLE.7z.001",
-          	  "FileHash": "8cc86b22b560430a54ddc44d08a62deb",
+          	  "FileHash": "f2789a93f0c084853ea8c9842cad2ab2",
           	  "FileSize": 2097152000
         	},
 		{
-		  "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-01-21/hts-mm-n64hd-mle--2020-01-21.7z.002",
+		  "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-02-23/hts-mm-n64hd-mle--2020-02-23.7z.002",
 		  "FileName": "MMN64HD_MLE.7z.002",
-		  "FileHash": "8abac07871c3352781375fdcb8435422",
-		  "FileSize": 681924672
+		  "FileHash": "673c8557b75efd40bcbc1929d6aaa5a1",
+		  "FileSize": 688989849
 		}
       ],
       "Files": {
