@@ -1,6 +1,23 @@
 {
   "Components": [
     {
+	  "Name": "Project64",
+	  "Description": "N64 Emulator",
+	  "Enabled": true,
+	  "ReadOnly": true,
+	  "DisableOnSelected": null,
+	  "Archive": true,
+	  "ExtractAll": true,
+	  "Urls": [
+	    {
+		  "Url": "appveyor:project64/project64#Win32",
+		  "FileName": null,
+          "FileHash": null,
+          "FileSize": 0
+		}
+	  ]
+	},
+    {
       "Name": "Azimer's Audio Plugin",
       "Description": "Azimer's Audio Plugin",
       "Enabled": true,
