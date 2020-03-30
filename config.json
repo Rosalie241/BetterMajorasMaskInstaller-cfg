@@ -1,22 +1,22 @@
 {
   "Components": [
     {
-	  "Name": "Project64",
-	  "Description": "N64 Emulator",
-	  "Enabled": true,
-	  "ReadOnly": true,
-	  "DisableOnSelected": null,
-	  "Archive": true,
-	  "ExtractAll": true,
-	  "Urls": [
-	    {
-		  "Url": "appveyor:project64/project64#Win32",
-		  "FileName": null,
+      "Name": "Project64",
+      "Description": "N64 Emulator",
+      "Enabled": true,
+      "ReadOnly": true,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "ExtractAll": true,
+      "Urls": [
+        {
+          "Url": "appveyor:project64/project64#Win32",
+          "FileName": null,
           "FileHash": null,
           "FileSize": 0
-		}
-	  ]
-	},
+        }
+      ]
+    },
     {
       "Name": "Azimer's Audio Plugin",
       "Description": "Azimer's Audio Plugin",
@@ -120,18 +120,18 @@
       "DisableOnSelected": null,
       "Archive": true,
       "Urls": [
-        	{
-          	  "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-03-10/hts-mm-n64hd-mle--2020-03-10.7z.001",
-          	  "FileName": "MMN64HD_MLE.7z.001",
-          	  "FileHash": "544db75defc4062e522bc0ae89436c5a",
-          	  "FileSize": 2097152000
-        	},
-		{
-		  "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-03-10/hts-mm-n64hd-mle--2020-03-10.7z.002",
-		  "FileName": "MMN64HD_MLE.7z.002",
-		  "FileHash": "28db31389bb42eca66c84604f1e3f777",
-		  "FileSize": 689161289
-		}
+        {
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-03-10/hts-mm-n64hd-mle--2020-03-10.7z.001",
+          "FileName": "MMN64HD_MLE.7z.001",
+          "FileHash": "544db75defc4062e522bc0ae89436c5a",
+          "FileSize": 2097152000
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-03-10/hts-mm-n64hd-mle--2020-03-10.7z.002",
+          "FileName": "MMN64HD_MLE.7z.002",
+          "FileHash": "28db31389bb42eca66c84604f1e3f777",
+          "FileSize": 689161289
+        }
       ],
       "Files": {
         "ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
