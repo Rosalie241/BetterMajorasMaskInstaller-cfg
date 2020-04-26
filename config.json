@@ -51,8 +51,8 @@
         }
       ],
       "Files": {
-        "Zilmar-spec\\GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
-        "Zilmar-spec\\GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
+        "GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
+        "GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
       },
       "Patches": null
     },
