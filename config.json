@@ -44,7 +44,7 @@
       "Archive": true,
       "Urls": [
         {
-          "Url": "appveyor:gonetz/GlideN64",
+          "Url": "appveyor:gonetz/GlideN64#QT_for_Project64.7z",
           "FileName": null,
           "FileHash": null,
           "FileSize": 0
