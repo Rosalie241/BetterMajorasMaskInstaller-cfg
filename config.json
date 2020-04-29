@@ -115,26 +115,44 @@
     },
     {
       "Name": "MMN64HD HTS Texture Pack",
-      "Description": "Disk Loading Cache",
+      "Description": "Majora's Mask HD Texture Pack in HTS Format",
       "Enabled": true,
       "DisableOnSelected": null,
       "Archive": true,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-03-10/hts-mm-n64hd-mle--2020-03-10.7z.001",
+          "Url": "https://evilgames.eu/texture-packs/files/mm-n64hd-mle--2020-03-10.7z",
           "FileName": "MMN64HD_MLE.7z.001",
-          "FileHash": "544db75defc4062e522bc0ae89436c5a",
-          "FileSize": 2097152000
-        },
-        {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-03-10/hts-mm-n64hd-mle--2020-03-10.7z.002",
-          "FileName": "MMN64HD_MLE.7z.002",
-          "FileHash": "28db31389bb42eca66c84604f1e3f777",
-          "FileSize": 689161289
+          "FileHash": "c8606d2da31235b99b36baa0e759facd",
+          "FileSize": 2786313289
         }
       ],
       "Files": {
         "ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
+      },
+      "Patches": {
+        "Plugin\\GFX\\GLideN64.ini": {
+          "Key": "textureFilter\\txHiresTextureFileStorage=0",
+          "Value": "textureFilter\\txHiresTextureFileStorage=1"
+        }
+      }
+    },
+	{
+      "Name": "OoT Reloaded HTS Texture Pack",
+      "Description": "Ocarina Of Time UHD Texture Pack in HTS Format",
+      "Enabled": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "Urls": [
+        {
+          "Url": "https://evilgames.eu/texture-packs/files/oot-reloaded-v7.2.0.7z",
+          "FileName": "oot-reloaded.7z",
+          "FileHash": "8eee800e312fa9fdf871648ba4caf15d",
+          "FileSize": 4443971052
+        }
+      ],
+      "Files": {
+        "THE LEGEND OF ZELDA_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\THE LEGEND OF ZELDA_HIRESTEXTURES.hts"
       },
       "Patches": {
         "Plugin\\GFX\\GLideN64.ini": {
