@@ -114,17 +114,17 @@
       "Patches": null
     },
     {
-      "Name": "MMN64HD HTS Texture Pack",
-      "Description": "Majora's Mask HD Texture Pack in HTS Format",
+      "Name": "MMN64HD (MLE) HTS Texture Pack",
+      "Description": "Majora's Mask HD (MLE) Texture Pack in HTS Format",
       "Enabled": true,
       "DisableOnSelected": null,
       "Archive": true,
       "Urls": [
         {
-          "Url": "https://evilgames.eu/texture-packs/files/mm-n64hd-mle--2020-03-10.7z",
+          "Url": "https://evilgames.eu/texture-packs/files/mm-n64hd-mle--2020-05-01.7z",
           "FileName": "MMN64HD_MLE.7z.001",
-          "FileHash": "c8606d2da31235b99b36baa0e759facd",
-          "FileSize": 2786313289
+          "FileHash": "3bc216783784cd9240085fb725f510ea",
+          "FileSize": 2783090714
         }
       ],
       "Files": {
@@ -145,10 +145,10 @@
       "Archive": true,
       "Urls": [
         {
-          "Url": "https://evilgames.eu/texture-packs/files/oot-reloaded-v7.2.0.7z",
+          "Url": "https://evilgames.eu/texture-packs/files/oot-reloaded-v7.3.0.7z",
           "FileName": "oot-reloaded.7z",
-          "FileHash": "8eee800e312fa9fdf871648ba4caf15d",
-          "FileSize": 4443971052
+          "FileHash": "ed40631c12357fce2934c99523eb03bb",
+          "FileSize": 4504109569
         }
       ],
       "Files": {
