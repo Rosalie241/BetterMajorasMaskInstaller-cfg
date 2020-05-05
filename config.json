@@ -145,10 +145,10 @@
       "Archive": true,
       "Urls": [
         {
-          "Url": "https://evilgames.eu/texture-packs/files/oot-reloaded-v7.3.0.7z",
+          "Url": "https://evilgames.eu/texture-packs/files/oot-reloaded-v7.3.1.7z",
           "FileName": "oot-reloaded.7z",
-          "FileHash": "ed40631c12357fce2934c99523eb03bb",
-          "FileSize": 4504109569
+          "FileHash": "c32da399aa9fab5a9baf6662cfdfeda4",
+          "FileSize": 4503934684
         }
       ],
       "Files": {
