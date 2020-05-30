@@ -121,10 +121,10 @@
       "Archive": true,
       "Urls": [
         {
-          "Url": "https://evilgames.eu/texture-packs/files/mm-n64hd-mle--2020-05-01.7z",
+          "Url": "https://evilgames.eu/texture-packs/files/mm-n64hd-mle--2020-05-30.7z",
           "FileName": "MMN64HD_MLE.7z",
-          "FileHash": "3bc216783784cd9240085fb725f510ea",
-          "FileSize": 2783090714
+          "FileHash": "aeb3aa193bf2496e17d0ef5784e73a0a",
+          "FileSize": 3272900355
         }
       ],
       "Files": {
