@@ -15,14 +15,18 @@
           "FileHash": null,
           "FileSize": 0
         }
-      ]
+      ],
+      "Files": null,
+      "Patches": null
     },
     {
       "Name": "Azimer's Audio Plugin",
       "Description": "Azimer's Audio Plugin",
       "Enabled": true,
+      "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "ExtractAll": false,
       "Urls": [
         {
           "Url": "https://github.com/Azimer/AziAudio/files/1591596/AziAudio.v0.70.WIP10.zip",
@@ -43,6 +47,7 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
+      "ExtractAll": false,
       "Urls": [
         {
           "Url": "appveyor:gonetz/GlideN64#QT_for_Project64.7z",
@@ -61,8 +66,10 @@
       "Name": "Angrylion RDP Plus GFX Plugin",
       "Description": "A low-level N64 video emulation plugin, based on the pixel-perfect angrylion RDP plugin with some improvements.",
       "Enabled": true,
+      "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": false,
+      "ExtractAll": false,
       "Urls": [
         {
           "Url": "https://github.com/ata4/angrylion-rdp-plus/releases/download/r8/angrylion-plus.dll",
@@ -80,8 +87,10 @@
       "Name": "Iconoclast's Static RSP Interpreter Plugin",
       "Description": "Exemplary MSP communications simulator using a normalized VU.",
       "Enabled": true,
+      "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "ExtractAll": false,
       "Urls": [
         {
           "Url": "https://github.com/tim241/rsp/releases/download/v1/rsp.zip",
@@ -99,8 +108,10 @@
       "Name": "Configuration Tool for RSP Plugin (spconfig)",
       "Description": "Configuration UI for the RSP plugin.",
       "Enabled": true,
+      "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": false,
+      "ExtractAll": false,
       "Urls": [
         {
           "Url": "https://github.com/cxd4/spconfig/releases/download/v1.1/spconfig.exe",
@@ -118,21 +129,23 @@
       "Name": "MMN64HD (MLE) HTS Texture Pack",
       "Description": "Majora's Mask HD (MLE) Texture Pack in HTS Format",
       "Enabled": true,
+      "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "ExtractAll": false,
       "Urls": [
         {
           "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-05-30/hts-mm-n64hd-mle--2020-05-30.7z.001",
           "FileName": "MMN64HD_MLE.7z.001",
           "FileHash": "1e949f305e6feeac3cb6cdbc754cbcd4",
           "FileSize": 2097152000
-	},
+        },
         {
           "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2020-05-30/hts-mm-n64hd-mle--2020-05-30.7z.002",
           "FileName": "MMN64HD_MLE.7z.002",
           "FileHash": "9e4a388d912dcae5d8643610b5af6559",
           "FileSize": 1175748355
-	}
+        }
       ],
       "Files": {
         "ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
@@ -144,12 +157,14 @@
         }
       }
     },
-	{
+    {
       "Name": "OoT Reloaded HTS Texture Pack",
       "Description": "Ocarina Of Time UHD Texture Pack in HTS Format",
       "Enabled": false,
+      "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "ExtractAll": false,
       "Urls": [
         {
           "Url": "https://evilgames.eu/texture-packs/files/oot-reloaded-v7.3.1.7z",
@@ -172,8 +187,10 @@
       "Name": "Custom Configuration Files",
       "Description": "Configuration Files for Project64, GLideN64, Azimer's Audio Plugin & Iconoclast's Static RSP Interpreter",
       "Enabled": true,
+      "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "ExtractAll": false,
       "Urls": [
         {
           "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
