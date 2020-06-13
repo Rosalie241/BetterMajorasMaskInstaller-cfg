@@ -7,6 +7,7 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
+      "InstalledSize": 7708880,
       "ExtractAll": true,
       "Urls": [
         {
@@ -26,6 +27,7 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "InstalledSize": 186368,
       "ExtractAll": false,
       "Urls": [
         {
@@ -47,6 +49,7 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
+      "InstalledSize": 11801850,
       "ExtractAll": false,
       "Urls": [
         {
@@ -69,6 +72,7 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": false,
+      "InstalledSize": 477696,
       "ExtractAll": false,
       "Urls": [
         {
@@ -90,6 +94,7 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "InstalledSize": 41472,
       "ExtractAll": false,
       "Urls": [
         {
@@ -111,6 +116,7 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": false,
+      "InstalledSize": 3072,
       "ExtractAll": false,
       "Urls": [
         {
@@ -132,6 +138,7 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "InstalledSize": 12527136108,
       "ExtractAll": false,
       "Urls": [
         {
@@ -164,6 +171,7 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "InstalledSize": 28224371834,
       "ExtractAll": false,
       "Urls": [
         {
@@ -202,6 +210,7 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
+      "InstalledSize": 13270,
       "ExtractAll": false,
       "Urls": [
         {
