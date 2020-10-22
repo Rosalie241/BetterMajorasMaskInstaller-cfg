@@ -88,7 +88,7 @@
       "Patches": null
     },
     {
-      "Name": "Iconoclast's Static RSP Interpreter Plugin",
+      "Name": "cxd4's Static RSP Interpreter Plugin",
       "Description": "Exemplary MSP communications simulator using a normalized VU.",
       "Enabled": true,
       "ReadOnly": false,
@@ -98,7 +98,7 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/tim241/rsp/releases/download/v1/rsp.zip",
+          "Url": "https://github.com/Rosalie241/rsp/releases/download/v1/rsp.zip",
           "FileName": "rsp.zip",
           "FileHash": "a074dfedf8dd71412428b764b5409ce3",
           "FileSize": 19519
@@ -214,7 +214,7 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/tim241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-1/configs.zip",
           "FileName": "configs.zip",
           "FileHash": "205e25d0390d315d89972861c4789e5b",
           "FileSize": 6058
