@@ -21,6 +21,35 @@
       "Patches": null
     },
     {
+      "Name": "Rosalie's Project64 Launcher",
+      "Description": "Project64 Launcher with KeyGen",
+      "Enabled": true,
+      "ReadOnly": true,
+      "DisableOnSelected": null,
+      "Archive": false,
+      "InstalledSize": 2932736,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/Rosalie241/PJ64Launcher/releases/download/1.0.0/PJ64KeyGen.exe",
+          "FileName": "PJ64KeyGen.exe",
+          "FileHash": "6dd815429939366987a8e61fa6fad1f0",
+          "FileSize": 2920448
+        },
+		{
+          "Url": "https://github.com/Rosalie241/PJ64Launcher/releases/download/1.0.0/PJ64Launcher.exe",
+          "FileName": "PJ64Launcher.exe",
+          "FileHash": "74a33271818035573d3bead96b5b9b4a",
+          "FileSize": 12288
+        }
+      ],
+      "Files": {
+        "PJ64KeyGen.exe": "PJ64KeyGen.exe",
+        "PJ64Launcher.exe": "PJ64Launcher.exe"
+      },
+      "Patches": null
+    },
+    {
       "Name": "Azimer's Audio Plugin",
       "Description": "Azimer's Audio Plugin",
       "Enabled": true,
