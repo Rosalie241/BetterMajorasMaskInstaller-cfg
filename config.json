@@ -231,6 +231,60 @@
           "Value": "textureFilter\\txHiresTextureFileStorage=1"
         }
       }
+    },  
+    {
+      "Name": "SM64 Reloaded HTS Texture Pack",
+      "Description": "Super Mario 64 UHD Texture Pack in HTS Format",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 4571052985,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v1.2.0/sm64-reloaded-v1.2.0-gliden64-uhts.7z",
+          "FileName": "SM64-Reloaded.7z",
+          "FileHash": "f691388786789d09422d1e5eb0f4b0fd",
+          "FileSize": 685515681
+        }
+      ],
+      "Files": {
+        "SUPER MARIO 64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SUPER MARIO 64_HIRESTEXTURES.hts"
+      },
+      "Patches": {
+        "Plugin\\GFX\\GLideN64.ini": {
+          "Key": "textureFilter\\txHiresTextureFileStorage=0",
+          "Value": "textureFilter\\txHiresTextureFileStorage=1"
+        }
+      }
+    },
+    {
+      "Name": "Super Smash Bros. HD HTS Texture Pack",
+      "Description": "Super Smash Bros. HD Texture Pack in HTS Format",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 919978145,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/SSB-HD/releases/download/v1.1.1/ssb-hd-v1.1.1-gliden64-uhts.7z",
+          "FileName": "SSB-HD.7z",
+          "FileHash": "d5d527697a6b531f2586484eecf74eb2",
+          "FileSize": 39339591
+        }
+      ],
+      "Files": {
+        "SMASH BROTHERS_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SMASH BROTHERS_HIRESTEXTURES.hts"
+      },
+      "Patches": {
+        "Plugin\\GFX\\GLideN64.ini": {
+          "Key": "textureFilter\\txHiresTextureFileStorage=0",
+          "Value": "textureFilter\\txHiresTextureFileStorage=1"
+        }
+      }
     },
     {
       "Name": "Custom Configuration Files",
