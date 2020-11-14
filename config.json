@@ -31,13 +31,13 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/PJ64Launcher/releases/download/1.2.0/PJ64KeyGen.exe",
+          "Url": "https://github.com/Rosalie241/PJ64Launcher/releases/download/1.3.0/PJ64KeyGen.exe",
           "FileName": "PJ64KeyGen.exe",
-          "FileHash": "7a91288aec579ec33745aaee2b1211b6",
+          "FileHash": "b2cd73e47117049c23a2acbbdf0d04bb",
           "FileSize": 2920448
         },
 		{
-          "Url": "https://github.com/Rosalie241/PJ64Launcher/releases/download/1.2.0/PJ64Launcher.exe",
+          "Url": "https://github.com/Rosalie241/PJ64Launcher/releases/download/1.3.0/PJ64Launcher.exe",
           "FileName": "PJ64Launcher.exe",
           "FileHash": "d9646941aeedb2b964df2564f065c3bd",
           "FileSize": 12288
