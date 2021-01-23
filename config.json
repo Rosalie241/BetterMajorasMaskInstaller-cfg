@@ -200,26 +200,26 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 26674190060,
+      "InstalledSize": 26515313392,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.6.2/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.7.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
           "FileName": "oot-reloaded.7z.001",
-          "FileHash": "9943aaa4346cce89d10b6b29a9b71b8c",
+          "FileHash": "df7a79ec566a3c129177ad3baaee7efa",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.6.2/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.7.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
           "FileName": "oot-reloaded.7z.002",
-          "FileHash": "a1d71b0cc9036982d074b8f24478bafa",
+          "FileHash": "c3c8f63b05fd75d4545b7580bf16c31e",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.6.2/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.7.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.003",
           "FileName": "oot-reloaded.7z.003",
-          "FileHash": "b4fb275b1183f8ccb18df2ad83229896",
-          "FileSize": 745133627
+          "FileHash": "7f1de2be5970585811087a60d885f587",
+          "FileSize": 250901244
         }
       ],
       "Files": {
