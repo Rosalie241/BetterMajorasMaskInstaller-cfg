@@ -239,26 +239,26 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 16822001338,
+      "InstalledSize": 16775408633,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.0.0/Resident.Evil.II_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.0/Resident.Evil.II_HIRESTEXTURES.7z.001",
           "FileName": "re2-reloaded.7z.001",
-          "FileHash": "daa5fa3bd3a6b9c394957eec7eda3f23",
+          "FileHash": "5d387084244b744dec45aa326e0fa802",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.0.0/Resident.Evil.II_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.0/Resident.Evil.II_HIRESTEXTURES.7z.002",
           "FileName": "re2-reloaded.7z.002",
-          "FileHash": "93f07263b44cffa819e13ef2acd5ed27",
+          "FileHash": "75f0a524f6bf83f42ed00006ac22d6c7",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.0.0/Resident.Evil.II_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.0/Resident.Evil.II_HIRESTEXTURES.7z.003",
           "FileName": "re2-reloaded.7z.003",
-          "FileHash": "8c1fbd5d13dd2de2002ccae012cfbf53",
-          "FileSize": 950034914
+          "FileHash": "35dabfd3d0dc3759ac48c1d21f35ba10",
+          "FileSize": 954001988
         }
       ],
       "Files": {
