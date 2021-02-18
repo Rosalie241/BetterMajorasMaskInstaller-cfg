@@ -206,13 +206,13 @@
         {
           "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.8.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
           "FileName": "oot-reloaded.7z.001",
-          "FileHash": "b5664ea686b87a6632def99439c98df2",
+          "FileHash": "03b3ba23b9d36f4d5dc89fbf60794b2e",
           "FileSize": 2145386496
         },
         {
           "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.8.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
           "FileName": "oot-reloaded.7z.002",
-          "FileHash": "30051115751de9d9702e2d27b1a8e60b",
+          "FileHash": "cc05ba07ac3c4dafac191bf88aa858aa",
           "FileSize": 2145386496
         },
         {
@@ -245,19 +245,19 @@
         {
           "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.0/Resident.Evil.II_HIRESTEXTURES.7z.001",
           "FileName": "re2-reloaded.7z.001",
-          "FileHash": "5d387084244b744dec45aa326e0fa802",
+          "FileHash": "294ddee26043668e5bce5a16b2f0ffd0",
           "FileSize": 2145386496
         },
         {
           "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.0/Resident.Evil.II_HIRESTEXTURES.7z.002",
           "FileName": "re2-reloaded.7z.002",
-          "FileHash": "75f0a524f6bf83f42ed00006ac22d6c7",
+          "FileHash": "b812ed39d181dc0614c5836667527570",
           "FileSize": 2145386496
         },
         {
           "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.0/Resident.Evil.II_HIRESTEXTURES.7z.003",
           "FileName": "re2-reloaded.7z.003",
-          "FileHash": "35dabfd3d0dc3759ac48c1d21f35ba10",
+          "FileHash": "407937b27f0a74beccccb09e4fbed841",
           "FileSize": 954001988
         }
       ],
