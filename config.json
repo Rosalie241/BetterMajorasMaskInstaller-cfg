@@ -278,14 +278,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 4678953374,
+      "InstalledSize": 4376009118,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v1.3.0/sm64-reloaded-v1.3.0-gliden64-uhts.7z",
+          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v1.4.0/sm64-reloaded-v1.4.0-gliden64-uhts.7z",
           "FileName": "SM64-Reloaded.7z",
-          "FileHash": "604254919e7fe26e31e63d57967617a6",
-          "FileSize": 692744171
+          "FileHash": "b47191bf8e676bef95a00ccdad454101",
+          "FileSize": 676728259
         }
       ],
       "Files": {
