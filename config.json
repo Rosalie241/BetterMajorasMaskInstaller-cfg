@@ -336,10 +336,10 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-2/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-3/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "df347c3c8d4500defa4a603b7667f304",
-          "FileSize": 6100
+          "FileHash": "bbc5d316079866bc3358250f3f52ea5b",
+          "FileSize": 6118
         }
       ],
       "Files": {
