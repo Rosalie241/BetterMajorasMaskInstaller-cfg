@@ -71,6 +71,28 @@
       },
       "Patches": null
     },
+	{
+      "Name": "NRage Controller Plugin",
+      "Description": "v2.5.3-1252 (non-buggy version)",
+      "Enabled": true,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 302080,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/PJ64_NRage/releases/download/v2.5.3-1252/PJ64_NRage.zip",
+          "FileName": "PJ64_NRage.zip",
+          "FileHash": "115f88e2e75415452c955f25d10c792a",
+          "FileSize": 148029
+        }
+      ],
+      "Files": {
+        "PJ64_NRage.dll": "Plugin\\Input\\PJ64_NRage.dll"
+      },
+      "Patches": null
+    },
     {
       "Name": "GlideN64 GFX Plugin",
       "Description": "A new generation, open-source graphics plugin for N64 emulators.",
@@ -116,6 +138,28 @@
       },
       "Patches": null
     },
+	{
+      "Name": "mupen64plus RSP HLE Plugin",
+      "Description": "RSP processor plugin for the Mupen64Plus project.",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 69632,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/mupen64plus-rsp-hle/releases/download/2021-01/mupen64plus-rsp-hle-zilmar-x86.zip",
+          "FileName": "hle.zip",
+          "FileHash": "ddee3597224bc7b34ee1a57d3a427989",
+          "FileSize": 33080
+        }
+      ],
+      "Files": {
+        "mupen64plus-rsp-hle.dll": "Plugin\\RSP\\mupen64plus-rsp-hle.dll"
+      },
+      "Patches": null
+    },
     {
       "Name": "cxd4's Static RSP Interpreter Plugin",
       "Description": "Exemplary MSP communications simulator using a normalized VU.",
@@ -123,14 +167,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 41472,
+      "InstalledSize": 47118,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/rsp/releases/download/v1/rsp.zip",
+          "Url": "https://github.com/GhostlyDark/rsp/releases/download/2021-01/cxd4-zilmar-x86-msse4.2.zip",
           "FileName": "rsp.zip",
-          "FileHash": "a074dfedf8dd71412428b764b5409ce3",
-          "FileSize": 19519
+          "FileHash": "f176191c065bf3014f2ec2b3350c09a4",
+          "FileSize": 22044
         }
       ],
       "Files": {
@@ -186,12 +230,7 @@
       "Files": {
         "ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
       },
-      "Patches": {
-        "Plugin\\GFX\\GLideN64.ini": {
-          "Key": "textureFilter\\txHiresTextureFileStorage=0",
-          "Value": "textureFilter\\txHiresTextureFileStorage=1"
-        }
-      }
+      "Patches": null
     },
     {
       "Name": "OoT Reloaded HTS Texture Pack",
@@ -225,12 +264,7 @@
       "Files": {
         "THE LEGEND OF ZELDA_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\THE LEGEND OF ZELDA_HIRESTEXTURES.hts"
       },
-      "Patches": {
-        "Plugin\\GFX\\GLideN64.ini": {
-          "Key": "textureFilter\\txHiresTextureFileStorage=0",
-          "Value": "textureFilter\\txHiresTextureFileStorage=1"
-        }
-      }
+      "Patches": null
     },
 	{
       "Name": "RE2 Reloaded HTS Texture Pack",
@@ -264,12 +298,7 @@
       "Files": {
         "Resident Evil II_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Resident Evil II_HIRESTEXTURES.hts"
       },
-      "Patches": {
-        "Plugin\\GFX\\GLideN64.ini": {
-          "Key": "textureFilter\\txHiresTextureFileStorage=0",
-          "Value": "textureFilter\\txHiresTextureFileStorage=1"
-        }
-      }
+      "Patches": null
     },
     {
       "Name": "SM64 Reloaded HTS Texture Pack",
@@ -291,12 +320,7 @@
       "Files": {
         "SUPER MARIO 64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SUPER MARIO 64_HIRESTEXTURES.hts"
       },
-      "Patches": {
-        "Plugin\\GFX\\GLideN64.ini": {
-          "Key": "textureFilter\\txHiresTextureFileStorage=0",
-          "Value": "textureFilter\\txHiresTextureFileStorage=1"
-        }
-      }
+      "Patches": null
     },
     {
       "Name": "Super Smash Bros. HD HTS Texture Pack",
@@ -318,12 +342,7 @@
       "Files": {
         "SMASH BROTHERS_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SMASH BROTHERS_HIRESTEXTURES.hts"
       },
-      "Patches": {
-        "Plugin\\GFX\\GLideN64.ini": {
-          "Key": "textureFilter\\txHiresTextureFileStorage=0",
-          "Value": "textureFilter\\txHiresTextureFileStorage=1"
-        }
-      }
+      "Patches": null
     },
     {
       "Name": "Custom Configuration Files",
@@ -332,14 +351,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 13270,
+      "InstalledSize": 13628,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-3/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-4/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "bbc5d316079866bc3358250f3f52ea5b",
-          "FileSize": 6118
+          "FileHash": "d05422bc2581d3c900884f971a361dcb",
+          "FileSize": 6001
         }
       ],
       "Files": {
