@@ -36,7 +36,7 @@
           "FileHash": "b2cd73e47117049c23a2acbbdf0d04bb",
           "FileSize": 2920448
         },
-		{
+        {
           "Url": "https://github.com/Rosalie241/PJ64Launcher/releases/download/1.3.0/PJ64Launcher.exe",
           "FileName": "PJ64Launcher.exe",
           "FileHash": "d9646941aeedb2b964df2564f065c3bd",
@@ -71,7 +71,7 @@
       },
       "Patches": null
     },
-	{
+    {
       "Name": "NRage Controller Plugin",
       "Description": "v2.5.3-1252 (non-buggy version)",
       "Enabled": true,
@@ -138,7 +138,7 @@
       },
       "Patches": null
     },
-	{
+    {
       "Name": "mupen64plus RSP HLE Plugin",
       "Description": "RSP processor plugin for the Mupen64Plus project.",
       "Enabled": true,
@@ -204,7 +204,7 @@
       },
       "Patches": null
     },
-	{
+    {
       "Name": "Custom Configuration Files",
       "Description": "Configuration Files for Project64, GLideN64, Azimer's Audio Plugin & Iconoclast's Static RSP Interpreter",
       "Enabled": true,
@@ -293,7 +293,7 @@
       },
       "Patches": null
     },
-	{
+    {
       "Name": "RE2 Reloaded HTS Texture Pack",
       "Description": "RE2 Reloaded Texture Pack in HTS Format",
       "Enabled": false,
