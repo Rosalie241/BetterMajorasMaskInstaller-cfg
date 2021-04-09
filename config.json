@@ -94,7 +94,7 @@
       "Patches": null
     },
     {
-      "Name": "GlideN64 GFX Plugin",
+      "Name": "GLideN64 GFX Plugin",
       "Description": "A new generation, open-source graphics plugin for N64 emulators.",
       "Enabled": true,
       "ReadOnly": true,
@@ -164,7 +164,7 @@
       "Name": "cxd4's Static RSP Interpreter Plugin",
       "Description": "Exemplary MSP communications simulator using a normalized VU.",
       "Enabled": true,
-      "ReadOnly": true,
+      "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
       "InstalledSize": 47118,
@@ -201,6 +201,33 @@
       ],
       "Files": {
         "spconfig.exe": "spconfig.exe"
+      },
+      "Patches": null
+    },
+	{
+      "Name": "Custom Configuration Files",
+      "Description": "Configuration Files for Project64, GLideN64, Azimer's Audio Plugin & Iconoclast's Static RSP Interpreter",
+      "Enabled": true,
+      "ReadOnly": true,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 13607,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-5/configs.zip",
+          "FileName": "configs.zip",
+          "FileHash": "840a72a4894e5c0fa3eefb1ee6f89d79",
+          "FileSize": 5991
+        }
+      ],
+      "Files": {
+        "rsp_conf.bin": "rsp_conf.bin",
+        "Config\\Project64.cfg": "Config\\Project64.cfg",
+        "Config\\AziCfg.bin": "Config\\AziCfg.bin",
+        "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini",
+        "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
+        "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture"
       },
       "Patches": null
     },
@@ -341,33 +368,6 @@
       ],
       "Files": {
         "SMASH BROTHERS_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SMASH BROTHERS_HIRESTEXTURES.hts"
-      },
-      "Patches": null
-    },
-    {
-      "Name": "Custom Configuration Files",
-      "Description": "Configuration Files for Project64, GLideN64, Azimer's Audio Plugin & Iconoclast's Static RSP Interpreter",
-      "Enabled": true,
-      "ReadOnly": true,
-      "DisableOnSelected": null,
-      "Archive": true,
-      "InstalledSize": 13628,
-      "ExtractAll": false,
-      "Urls": [
-        {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-4/configs.zip",
-          "FileName": "configs.zip",
-          "FileHash": "d05422bc2581d3c900884f971a361dcb",
-          "FileSize": 6001
-        }
-      ],
-      "Files": {
-        "rsp_conf.bin": "rsp_conf.bin",
-        "Config\\Project64.cfg": "Config\\Project64.cfg",
-        "Config\\AziCfg.bin": "Config\\AziCfg.bin",
-        "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini",
-        "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
-        "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture"
       },
       "Patches": null
     }
