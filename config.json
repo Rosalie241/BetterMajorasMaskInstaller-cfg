@@ -238,20 +238,20 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 16020405768,
+      "InstalledSize": 16399860938,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-04-02/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-05-01/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
           "FileName": "MMN64HD_MLE.7z.001",
-          "FileHash": "07a2082d9be842bda3d46173d6aeca84",
+          "FileHash": "33041259512b631028e2dbd341bba826",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-04-02/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-05-01/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
           "FileName": "MMN64HD_MLE.7z.002",
-          "FileHash": "69d6e2a931194991f2c40fc545023a11",
-          "FileSize": 1868330745
+          "FileHash": "5f0bd5e835eb06906e065972ddfd4ada",
+          "FileSize": 1886267733
         }
       ],
       "Files": {
@@ -266,26 +266,26 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 23853354089,
+      "InstalledSize": 23989336797,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.10.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.11.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
           "FileName": "oot-reloaded.7z.001",
-          "FileHash": "ffd35e8594e619c49253121b37b61b7b",
+          "FileHash": "7cfce22a5756d261f6024eaa4a5af3e8",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.10.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.11.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
           "FileName": "oot-reloaded.7z.002",
-          "FileHash": "ac0b8a70cee900e3e221b5d17bb94064",
+          "FileHash": "a91b28ba8b58bb22c81caea1f508dd64",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.10.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.11.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.003",
           "FileName": "oot-reloaded.7z.003",
-          "FileHash": "2bb14293433e8d87a0d5759eb9334d5a",
-          "FileSize": 313764419
+          "FileHash": "45d0c6ff2014349b3c9fa91bd00659dc",
+          "FileSize": 325363780
         }
       ],
       "Files": {
@@ -356,14 +356,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 3257009948,
+      "InstalledSize": 3304154248,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.0.0/sm64-reloaded-v2.0.0-gliden64-uhts.7z",
+          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.1.0/sm64-reloaded-v2.1.0-gliden64-uhts.7z",
           "FileName": "SM64-Reloaded.7z",
-          "FileHash": "5fe3bba8549aa8f61d00f56bb28c9c2e",
-          "FileSize": 597223013
+          "FileHash": "15a1bf4430c01e80b1be0c0cab71f693",
+          "FileSize": 607407879
         }
       ],
       "Files": {
