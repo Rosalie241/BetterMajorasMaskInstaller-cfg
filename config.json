@@ -72,28 +72,6 @@
       "Patches": null
     },
     {
-      "Name": "NRage Controller Plugin",
-      "Description": "v2.5.3-1252 (non-buggy version)",
-      "Enabled": true,
-      "ReadOnly": false,
-      "DisableOnSelected": null,
-      "Archive": true,
-      "InstalledSize": 302080,
-      "ExtractAll": false,
-      "Urls": [
-        {
-          "Url": "https://github.com/GhostlyDark/PJ64_NRage/releases/download/v2.5.3-1252/PJ64_NRage.zip",
-          "FileName": "PJ64_NRage.zip",
-          "FileHash": "115f88e2e75415452c955f25d10c792a",
-          "FileSize": 148029
-        }
-      ],
-      "Files": {
-        "PJ64_NRage.dll": "Plugin\\Input\\PJ64_NRage.dll"
-      },
-      "Patches": null
-    },
-    {
       "Name": "GLideN64 GFX Plugin",
       "Description": "A new generation, open-source graphics plugin for N64 emulators.",
       "Enabled": true,
