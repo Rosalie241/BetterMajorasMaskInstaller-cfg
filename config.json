@@ -278,14 +278,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 310779715,
+      "InstalledSize": 325038853,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2021-05-10/MARIOKART64_HIRESTEXTURES.zip",
+          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2021-05-29/MARIOKART64_HIRESTEXTURES.zip",
           "FileName": "MK64-HD.zip",
-          "FileHash": "8ca7355d81ee49b41a7608eb1a22a27d",
-          "FileSize": 300766970
+          "FileHash": "5040b401d0fd8196a67398633a909d18",
+          "FileSize": 314485432
         }
       ],
       "Files": {
