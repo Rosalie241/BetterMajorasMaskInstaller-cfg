@@ -134,7 +134,7 @@
       "Enabled": true,
       "ReadOnly": false,
       "DisableOnSelected": null,
-      "Archive": true,
+      "Archive": false,
       "InstalledSize": 13686592,
       "ExtractAll": false,
       "Urls": [
