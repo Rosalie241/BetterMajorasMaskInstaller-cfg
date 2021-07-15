@@ -129,6 +129,29 @@
       "Patches": null
     },
     {
+      "Name": "ParaLLEl GFX Plugin",
+      "Description": "A low-level N64 video emulation plugin.",
+      "Enabled": true,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 13686592,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/Rosalie241/pj64-parallelrdp/releases/download/1.0/pj64-parallelrdp.dll",
+          "FileName": "pj64-parallelrdp.dll",
+          "FileHash": "b5c50100fe75b7ca37729b105f164ba2",
+          "FileSize": 13686592
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "pj64-parallelrdp.dll": "Plugin\\GFX\\pj64-parallelrdp.dll"
+      },
+      "Patches": null
+    },
+    {
       "Name": "mupen64plus RSP HLE Plugin",
       "Description": "RSP processor plugin for the Mupen64Plus project.",
       "Enabled": true,
