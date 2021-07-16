@@ -19,7 +19,7 @@
       ],
       "FallbackUrls": null,
       "Files": null,
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "Rosalie's Project64 Launcher",
@@ -49,7 +49,7 @@
         "PJ64KeyGen.exe": "PJ64KeyGen.exe",
         "PJ64Launcher.exe": "PJ64Launcher.exe"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "Azimer's Audio Plugin",
@@ -72,7 +72,7 @@
       "Files": {
         "AziAudio v0.70 WIP10.dll": "Plugin\\Audio\\AziAudio v0.70 WIP10.dll"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "GLideN64 GFX Plugin",
@@ -96,14 +96,14 @@
           "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-5/GLideN64-213c10d6-QT_for_Project64.7z",
           "FileName": "GLideN64-213c10d6-QT_for_Project64.7z",
           "FileHash": "79a42a7a25e723d8578ebc65e9bd86bf",
-          "FileSize": 4226592,
+          "FileSize": 4226592
         }
       ],
       "Files": {
         "GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
         "GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "Angrylion RDP Plus GFX Plugin",
@@ -126,7 +126,7 @@
       "Files": {
         "angrylion-plus.dll": "Plugin\\GFX\\angrylion-plus.dll"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "ParaLLEl GFX Plugin",
@@ -149,7 +149,7 @@
       "Files": {
         "pj64-parallelrdp.dll": "Plugin\\GFX\\pj64-parallelrdp.dll"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "mupen64plus RSP HLE Plugin",
@@ -172,7 +172,7 @@
       "Files": {
         "mupen64plus-rsp-hle.dll": "Plugin\\RSP\\mupen64plus-rsp-hle.dll"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "cxd4's Static RSP Interpreter Plugin",
@@ -195,7 +195,7 @@
       "Files": {
         "rsp.dll": "Plugin\\RSP\\rsp.dll"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "Configuration Tool for RSP Plugin (spconfig)",
@@ -218,7 +218,7 @@
       "Files": {
         "spconfig.exe": "spconfig.exe"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "Custom Configuration Files",
@@ -246,7 +246,7 @@
         "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
         "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture"
       },
-      "Patches": null
+      "Additions": null
     },
     {
       "Name": "MMN64HD (MLE) HTS Texture Pack",
@@ -275,7 +275,19 @@
       "Files": {
         "ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
       },
-      "Patches": null
+      "Additions": {
+        "Plugin\\GFX\\GLideN64.custom.ini": [
+          "",
+          "[ZELDA%20MAJORA%27S%20MASK]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          ""
+        ],
+      },
     },
     {
       "Name": "OoT Reloaded HTS Texture Pack",
@@ -310,7 +322,19 @@
       "Files": {
         "THE LEGEND OF ZELDA_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\THE LEGEND OF ZELDA_HIRESTEXTURES.hts"
       },
-      "Patches": null
+      "Additions": {
+        "Plugin\\GFX\\GLideN64.custom.ini": [
+          "",
+          "[THE%20LEGEND%20OF%20ZELDA]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          ""
+        ],
+      },
     },
     {
       "Name": "Mario Kart 64 HD HTS Texture Pack",
@@ -333,7 +357,19 @@
       "Files": {
         "MARIOKART64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\MARIOKART64_HIRESTEXTURES.hts"
       },
-      "Patches": null
+      "Additions": {
+        "Plugin\\GFX\\GLideN64.custom.ini": [
+          "",
+          "[MARIOKART64]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          ""
+        ],
+      },
     },
     {
       "Name": "RE2 Reloaded HTS Texture Pack",
@@ -368,7 +404,19 @@
       "Files": {
         "Resident Evil II_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Resident Evil II_HIRESTEXTURES.hts"
       },
-      "Patches": null
+      "Additions": {
+        "Plugin\\GFX\\GLideN64.custom.ini": [
+          "",
+          "[Resident%20Evil%20II]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          ""
+        ],
+      },
     },
     {
       "Name": "SM64 Reloaded HTS Texture Pack",
@@ -391,7 +439,19 @@
       "Files": {
         "SUPER MARIO 64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SUPER MARIO 64_HIRESTEXTURES.hts"
       },
-      "Patches": null
+      "Additions": {
+        "Plugin\\GFX\\GLideN64.custom.ini": [
+          "",
+          "[SUPER%20MARIO%2064]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          ""
+        ],
+      },
     },
     {
       "Name": "Super Smash Bros. HD HTS Texture Pack",
@@ -414,7 +474,19 @@
       "Files": {
         "SMASH BROTHERS_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SMASH BROTHERS_HIRESTEXTURES.hts"
       },
-      "Patches": null
+      "Additions": {
+        "Plugin\\GFX\\GLideN64.custom.ini": [
+          "",
+          "[SMASH%20BROTHERS]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          ""
+        ],
+      },
     }
   ]
 }
