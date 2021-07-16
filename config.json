@@ -198,6 +198,29 @@
       "Additions": null
     },
     {
+      "Name": "ParaLLEl RSP Plugin",
+      "Description": "A low-level N64 RSP emulation plugin.",
+      "Enabled": true,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": false,
+      "InstalledSize": 2573961,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/Rosalie241/parallel-rsp/releases/download/1.0/parallel-rsp.dll",
+          "FileName": "parallel-rsp.dll",
+          "FileHash": "b697cebde024ebb0ebe32f22b51839f4",
+          "FileSize": 2573961
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "parallel-rsp.dll": "Plugin\\RSP\\parallel-rsp.dll"
+      },
+      "Additions": null
+    },
+    {
       "Name": "Configuration Tool for RSP Plugin (spconfig)",
       "Description": "Configuration UI for the RSP plugin.",
       "Enabled": true,
