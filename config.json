@@ -286,8 +286,8 @@
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
           ""
-        ],
-      },
+        ]
+      }
     },
     {
       "Name": "OoT Reloaded HTS Texture Pack",
@@ -333,8 +333,8 @@
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
           ""
-        ],
-      },
+        ]
+      }
     },
     {
       "Name": "Mario Kart 64 HD HTS Texture Pack",
@@ -368,8 +368,8 @@
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
           ""
-        ],
-      },
+        ]
+      }
     },
     {
       "Name": "RE2 Reloaded HTS Texture Pack",
@@ -415,8 +415,8 @@
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
           ""
-        ],
-      },
+        ]
+      }
     },
     {
       "Name": "SM64 Reloaded HTS Texture Pack",
@@ -450,8 +450,8 @@
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
           ""
-        ],
-      },
+        ]
+      }
     },
     {
       "Name": "Super Smash Bros. HD HTS Texture Pack",
@@ -485,8 +485,8 @@
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
           ""
-        ],
-      },
+        ]
+      }
     }
   ]
 }
