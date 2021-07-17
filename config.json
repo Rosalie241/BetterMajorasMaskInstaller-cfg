@@ -135,17 +135,17 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": false,
-      "InstalledSize": 13844800,
+      "InstalledSize": 5351636,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/pj64-parallelrdp/releases/download/1.0/pj64-parallelrdp.dll",
+          "Url": "https://github.com/Rosalie241/pj64-parallelrdp/releases/download/1.1/pj64-parallelrdp.dll",
           "FileName": "pj64-parallelrdp.dll",
-          "FileHash": "b7ec04bdf1a744870082693bc0c04efc",
-          "FileSize": 13686592
+          "FileHash": "30158addd0f22b13a9a59c028abafb79",
+          "FileSize": 5193428
         },
         {
-          "Url": "https://github.com/Rosalie241/pj64-parallelrdp/releases/download/1.0/parasettings.exe",
+          "Url": "https://github.com/Rosalie241/pj64-parallelrdp/releases/download/1.1/parasettings.exe",
           "FileName": "parasettings.exe",
           "FileHash": "504bffd53640e08376ec64f22fdf5c0d",
           "FileSize": 158208
