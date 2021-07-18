@@ -147,8 +147,7 @@
       ],
       "FallbackUrls": null,
       "Files": {
-        "pj64-parallelrdp.dll": "Plugin\\GFX\\pj64-parallelrdp.dll",
-        "parasettings.exe": "parasettings.exe",
+        "pj64-parallelrdp.dll": "Plugin\\GFX\\pj64-parallelrdp.dll"
       },
       "Additions": null
     },
