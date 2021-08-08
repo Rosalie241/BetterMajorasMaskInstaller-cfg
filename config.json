@@ -85,18 +85,18 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-6/GLideN64-2f9375ac-QT_for_Project64.7z",
-          "FileName": "GLideN64-2f9375ac-QT_for_Project64.7z",
-          "FileHash": "080622cbf57ea00d3559fea56bed2f17",
-          "FileSize": 4227327
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-6/GLideN64-e1435e18-QT_for_Project64.7z",
+          "FileName": "GLideN64-e1435e18-QT_for_Project64.7z",
+          "FileHash": "a375ba28fad7a5a13ab5230116dfd9bf",
+          "FileSize": 4124564
         }
       ],
       "FallbackUrls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-5/GLideN64-213c10d6-QT_for_Project64.7z",
-          "FileName": "GLideN64-213c10d6-QT_for_Project64.7z",
-          "FileHash": "79a42a7a25e723d8578ebc65e9bd86bf",
-          "FileSize": 4226592
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-6/GLideN64-2f9375ac-QT_for_Project64.7z",
+          "FileName": "GLideN64-2f9375ac-QT_for_Project64.7z",
+          "FileHash": "080622cbf57ea00d3559fea56bed2f17",
+          "FileSize": 4227327
         }
       ],
       "Files": {
