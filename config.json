@@ -55,7 +55,7 @@
       "Name": "Azimer's Audio Plugin",
       "Description": "Azimer's Audio Plugin",
       "Enabled": true,
-      "ReadOnly": false,
+      "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
       "InstalledSize": 186368,
@@ -254,10 +254,10 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-6/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-7/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "13735b75523553fc1523426b0c9fa2d2",
-          "FileSize": 5170
+          "FileHash": "6c9f987698348bce6bdfced7e06ca58e",
+          "FileSize": 5932
         }
       ],
       "FallbackUrls": null,
@@ -265,6 +265,8 @@
         "rsp_conf.bin": "rsp_conf.bin",
         "Config\\Project64.cfg": "Config\\Project64.cfg",
         "Config\\AziCfg.bin": "Config\\AziCfg.bin",
+        "Config\\NRage.ini": "Config\\NRage.ini",
+        "Config\\XInput Controller 1 Config.xcc": "Config\\XInput Controller 1 Config.xcc",
         "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini",
         "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
         "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture"
