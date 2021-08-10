@@ -143,7 +143,7 @@
           "FileName": "pj64-parallelrdp.dll",
           "FileHash": "b6dbb26d1edd4b680d52a00d3dd26c57",
           "FileSize": 5196024
-        },
+        }
       ],
       "FallbackUrls": null,
       "Files": {
@@ -254,10 +254,10 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-7/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-8/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "45937bf4eb9f29a42ab3fbc4bdf46bde",
-          "FileSize": 6753
+          "FileHash": "94070db34ebdf00faa12fcf69408ec6f",
+          "FileSize": 6913
         }
       ],
       "FallbackUrls": null,
@@ -269,9 +269,67 @@
         "Config\\XInput Controller 1 Config.xcc": "Config\\XInput Controller 1 Config.xcc",
         "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini",
         "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
-        "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture"
+        "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture",
+        "Plugin\\GFX\\texture_dump": "Plugin\\GFX\\texture_dump"
       },
-      "Additions": null
+      "Additions": {
+        "Plugin\\GFX\\GLideN64.custom.ini": [
+          "",
+          "[ZELDA%20MAJORA%27S%20MASK]",
+          "generalEmulation\\enableLOD=0",
+          "graphics2D\\correctTexrectCoords=1",
+          "graphics2D\\bgMode=0",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "",
+          "[THE%20LEGEND%20OF%20ZELDA]",
+          "graphics2D\\correctTexrectCoords=1",
+          "graphics2D\\bgMode=0",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "",
+          "[MARIOKART64]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "",
+          "[Resident%20Evil%20II]",
+          "graphics2D\\bgMode=0",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "",
+          "[SUPER%20MARIO%2064]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "",
+          "[SMASH%20BROTHERS]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "textureFilter\\txPath=Plugin/GFX/hires_texture",
+          "textureFilter\\txCachePath=Plugin/GFX/cache",
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump"
+        ]
+      }
     },
     {
       "Name": "MMN64HD (MLE) HTS Texture Pack",
@@ -300,19 +358,7 @@
       "Files": {
         "ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
       },
-      "Additions": {
-        "Plugin\\GFX\\GLideN64.custom.ini": [
-          "",
-          "[ZELDA%20MAJORA%27S%20MASK]",
-          "textureFilter\\txCacheSize=1047527424",
-          "textureFilter\\txHiresTextureFileStorage=1",
-          "textureFilter\\txHiresEnable=1",
-          "textureFilter\\txPath=Plugin/GFX/hires_texture",
-          "textureFilter\\txCachePath=Plugin/GFX/cache",
-          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
-          ""
-        ]
-      }
+      "Additions": null
     },
     {
       "Name": "OoT Reloaded HTS Texture Pack",
@@ -347,19 +393,7 @@
       "Files": {
         "THE LEGEND OF ZELDA_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\THE LEGEND OF ZELDA_HIRESTEXTURES.hts"
       },
-      "Additions": {
-        "Plugin\\GFX\\GLideN64.custom.ini": [
-          "",
-          "[THE%20LEGEND%20OF%20ZELDA]",
-          "textureFilter\\txCacheSize=1047527424",
-          "textureFilter\\txHiresTextureFileStorage=1",
-          "textureFilter\\txHiresEnable=1",
-          "textureFilter\\txPath=Plugin/GFX/hires_texture",
-          "textureFilter\\txCachePath=Plugin/GFX/cache",
-          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
-          ""
-        ]
-      }
+      "Additions": null
     },
     {
       "Name": "Mario Kart 64 HD HTS Texture Pack",
@@ -382,19 +416,7 @@
       "Files": {
         "MARIOKART64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\MARIOKART64_HIRESTEXTURES.hts"
       },
-      "Additions": {
-        "Plugin\\GFX\\GLideN64.custom.ini": [
-          "",
-          "[MARIOKART64]",
-          "textureFilter\\txCacheSize=1047527424",
-          "textureFilter\\txHiresTextureFileStorage=1",
-          "textureFilter\\txHiresEnable=1",
-          "textureFilter\\txPath=Plugin/GFX/hires_texture",
-          "textureFilter\\txCachePath=Plugin/GFX/cache",
-          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
-          ""
-        ]
-      }
+      "Additions": null
     },
     {
       "Name": "RE2 Reloaded HTS Texture Pack",
@@ -429,19 +451,7 @@
       "Files": {
         "Resident Evil II_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Resident Evil II_HIRESTEXTURES.hts"
       },
-      "Additions": {
-        "Plugin\\GFX\\GLideN64.custom.ini": [
-          "",
-          "[Resident%20Evil%20II]",
-          "textureFilter\\txCacheSize=1047527424",
-          "textureFilter\\txHiresTextureFileStorage=1",
-          "textureFilter\\txHiresEnable=1",
-          "textureFilter\\txPath=Plugin/GFX/hires_texture",
-          "textureFilter\\txCachePath=Plugin/GFX/cache",
-          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
-          ""
-        ]
-      }
+      "Additions": null
     },
     {
       "Name": "SM64 Reloaded HTS Texture Pack",
@@ -464,19 +474,7 @@
       "Files": {
         "SUPER MARIO 64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SUPER MARIO 64_HIRESTEXTURES.hts"
       },
-      "Additions": {
-        "Plugin\\GFX\\GLideN64.custom.ini": [
-          "",
-          "[SUPER%20MARIO%2064]",
-          "textureFilter\\txCacheSize=1047527424",
-          "textureFilter\\txHiresTextureFileStorage=1",
-          "textureFilter\\txHiresEnable=1",
-          "textureFilter\\txPath=Plugin/GFX/hires_texture",
-          "textureFilter\\txCachePath=Plugin/GFX/cache",
-          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
-          ""
-        ]
-      }
+      "Additions": null
     },
     {
       "Name": "Super Smash Bros. HD HTS Texture Pack",
@@ -499,19 +497,7 @@
       "Files": {
         "SMASH BROTHERS_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SMASH BROTHERS_HIRESTEXTURES.hts"
       },
-      "Additions": {
-        "Plugin\\GFX\\GLideN64.custom.ini": [
-          "",
-          "[SMASH%20BROTHERS]",
-          "textureFilter\\txCacheSize=1047527424",
-          "textureFilter\\txHiresTextureFileStorage=1",
-          "textureFilter\\txHiresEnable=1",
-          "textureFilter\\txPath=Plugin/GFX/hires_texture",
-          "textureFilter\\txCachePath=Plugin/GFX/cache",
-          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
-          ""
-        ]
-      }
+      "Additions": null
     }
   ]
 }
