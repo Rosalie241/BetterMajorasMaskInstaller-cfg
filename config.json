@@ -338,26 +338,26 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 18799205618,
+      "InstalledSize": 18946036907,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-08-14/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-08-15/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
           "FileName": "MMN64HD_MLE.7z.001",
-          "FileHash": "2663183e4dbc79b37393c98ea142fce1",
+          "FileHash": "80f6f04dd8cabfd918ff0f5709823dab",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-08-14/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-08-15/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
           "FileName": "MMN64HD_MLE.7z.002",
-          "FileHash": "3e883a32266a5d2ac155a61b141d80c1",
+          "FileHash": "b99267a74b17fb0793550fcef60dd35c",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-08-14/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-08-15/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
           "FileName": "MMN64HD_MLE.7z.003",
-          "FileHash": "7856ae1b6bca96da57d2d7c4d2f3ca1c",
-          "FileSize": 132673814
+          "FileHash": "959d0318472d5c82aee36ba8e4420962",
+          "FileSize": 178716508
         }
       ],
       "FallbackUrls": null,
