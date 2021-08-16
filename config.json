@@ -81,24 +81,17 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 11801850,
+      "InstalledSize": 10844932,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-6/GLideN64-e1435e18-QT_for_Project64.7z",
-          "FileName": "GLideN64-e1435e18-QT_for_Project64.7z",
-          "FileHash": "a375ba28fad7a5a13ab5230116dfd9bf",
-          "FileSize": 4124564
+          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-08-16/GLideN64-de809bb1-QT_for_Project64_x86.7z",
+          "FileName": "GLideN64-de809bb1-QT_for_Project64_x86.7z",
+          "FileHash": "c15ada5b6a3b0c3a778cb35e65e81c16",
+          "FileSize": 4128098
         }
       ],
-      "FallbackUrls": [
-        {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-6/GLideN64-2f9375ac-QT_for_Project64.7z",
-          "FileName": "GLideN64-2f9375ac-QT_for_Project64.7z",
-          "FileHash": "080622cbf57ea00d3559fea56bed2f17",
-          "FileSize": 4227327
-        }
-      ],
+      "FallbackUrls": null,
       "Files": {
         "GLideN64.dll": "Plugin\\GFX\\GLideN64.dll",
         "GLideN64.custom.ini": "Plugin\\GFX\\GLideN64.custom.ini"
@@ -250,14 +243,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 11450,
+      "InstalledSize": 14267,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-8/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-9/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "94070db34ebdf00faa12fcf69408ec6f",
-          "FileSize": 6913
+          "FileHash": "cbb33280d361c14b2c88f4952d396478",
+          "FileSize": 6888
         }
       ],
       "FallbackUrls": null,
@@ -285,6 +278,10 @@
           "textureFilter\\txPath=Plugin/GFX/hires_texture",
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscLeft=4",
+          "frameBufferEmulation\\overscanNtscRight=4",
+          "frameBufferEmulation\\overscanNtscBottom=3",
           "",
           "[THE%20LEGEND%20OF%20ZELDA]",
           "graphics2D\\correctTexrectCoords=1",
@@ -295,6 +292,10 @@
           "textureFilter\\txPath=Plugin/GFX/hires_texture",
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscLeft=4",
+          "frameBufferEmulation\\overscanNtscRight=4",
+          "frameBufferEmulation\\overscanNtscBottom=3",
           "",
           "[MARIOKART64]",
           "textureFilter\\txCacheSize=1047527424",
@@ -303,6 +304,10 @@
           "textureFilter\\txPath=Plugin/GFX/hires_texture",
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscLeft=4",
+          "frameBufferEmulation\\overscanNtscRight=4",
+          "frameBufferEmulation\\overscanNtscBottom=3",
           "",
           "[Resident%20Evil%20II]",
           "graphics2D\\bgMode=0",
@@ -312,6 +317,11 @@
           "textureFilter\\txPath=Plugin/GFX/hires_texture",
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscTop=12",
+          "frameBufferEmulation\\overscanNtscLeft=15",
+          "frameBufferEmulation\\overscanNtscRight=17",
+          "frameBufferEmulation\\overscanNtscBottom=15",
           "",
           "[SUPER%20MARIO%2064]",
           "textureFilter\\txCacheSize=1047527424",
@@ -320,6 +330,11 @@
           "textureFilter\\txPath=Plugin/GFX/hires_texture",
           "textureFilter\\txCachePath=Plugin/GFX/cache",
           "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscTop=7",
+          "frameBufferEmulation\\overscanNtscLeft=4",
+          "frameBufferEmulation\\overscanNtscRight=4",
+          "frameBufferEmulation\\overscanNtscBottom=9",
           "",
           "[SMASH%20BROTHERS]",
           "textureFilter\\txCacheSize=1047527424",
@@ -327,7 +342,12 @@
           "textureFilter\\txHiresEnable=1",
           "textureFilter\\txPath=Plugin/GFX/hires_texture",
           "textureFilter\\txCachePath=Plugin/GFX/cache",
-          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump"
+          "textureFilter\\txDumpPath=Plugin/GFX/texture_dump",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscTop=9",
+          "frameBufferEmulation\\overscanNtscLeft=10",
+          "frameBufferEmulation\\overscanNtscRight=10",
+          "frameBufferEmulation\\overscanNtscBottom=11"
         ]
       }
     },
