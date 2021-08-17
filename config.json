@@ -300,6 +300,7 @@
           "[MARIOKART64]",
           "graphics2D\\enableNativeResTexrects=0",
           "graphics2D\\enableTexCoordBounds=0",
+          "frameBufferEmulation\nativeResFactor=6",
           "textureFilter\\txCacheSize=1047527424",
           "textureFilter\\txHiresTextureFileStorage=1",
           "textureFilter\\txHiresEnable=1",
