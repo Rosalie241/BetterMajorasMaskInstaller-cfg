@@ -85,10 +85,10 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-08-16/GLideN64-de809bb1-QT_for_Project64_x86.7z",
-          "FileName": "GLideN64-de809bb1-QT_for_Project64_x86.7z",
-          "FileHash": "c15ada5b6a3b0c3a778cb35e65e81c16",
-          "FileSize": 4128098
+          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-08-17/GLideN64-23b8eb38-QT_for_Project64_x86.7z",
+          "FileName": "GLideN64-23b8eb38-QT_for_Project64_x86.7z",
+          "FileHash": "cef5b7c54444081aedfb7569b227f7fc",
+          "FileSize": 4127256
         }
       ],
       "FallbackUrls": null,
