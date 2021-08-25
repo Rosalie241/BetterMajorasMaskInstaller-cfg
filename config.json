@@ -85,10 +85,10 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-08-17/GLideN64-23b8eb38-QT_for_Project64_x86.7z",
-          "FileName": "GLideN64-23b8eb38-QT_for_Project64_x86.7z",
-          "FileHash": "63321fc415484b4bfd15d5df4fb0e494",
-          "FileSize": 4127256
+          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-08-25/GLideN64-faea20d9-QT_for_Project64_x86.7z",
+          "FileName": "GLideN64-faea20d9-QT_for_Project64_x86.7z",
+          "FileHash": "0bb1094e94321658f5b0b70fc8693f5f",
+          "FileSize": 4129376
         }
       ],
       "FallbackUrls": null,
@@ -104,15 +104,15 @@
       "Enabled": true,
       "ReadOnly": false,
       "DisableOnSelected": null,
-      "Archive": false,
-      "InstalledSize": 477696,
+      "Archive": true,
+      "InstalledSize": 361472,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/ata4/angrylion-rdp-plus/releases/download/r8/angrylion-plus.dll",
+          "Url": "https://github.com/GhostlyDark/angrylion-rdp-plus/releases/download/v1.6-1/project64-angrylion-plus-x86.zip",
           "FileName": "angrylion-plus.dll",
-          "FileHash": "b5c50100fe75b7ca37729b105f164ba2",
-          "FileSize": 477696
+          "FileHash": "de6e3cb0e0a66149a01b210a4e9714f9",
+          "FileSize": 157136
         }
       ],
       "FallbackUrls": null,
