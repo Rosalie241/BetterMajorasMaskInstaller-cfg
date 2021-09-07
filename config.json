@@ -81,14 +81,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 10844932,
+      "InstalledSize": 10856196,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-08-25/GLideN64-faea20d9-QT_for_Project64_x86.7z",
-          "FileName": "GLideN64-faea20d9-QT_for_Project64_x86.7z",
-          "FileHash": "0bb1094e94321658f5b0b70fc8693f5f",
-          "FileSize": 4129376
+          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-09-07/GLideN64-e6228bb-Windows-Project64-Qt-x86.zip",
+          "FileName": "GLideN64-e6228bb-Windows-Project64-Qt-x86.zip",
+          "FileHash": "9224c771df43acaacb9fa3d2a5e90140",
+          "FileSize": 5569356
         }
       ],
       "FallbackUrls": null,
@@ -243,14 +243,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 14267,
+      "InstalledSize": 16368,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-9/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-10/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "cbb33280d361c14b2c88f4952d396478",
-          "FileSize": 6888
+          "FileHash": "b2646c791c8447ec34809d17d6ec33ef",
+          "FileSize": 7701
         }
       ],
       "FallbackUrls": null,
@@ -261,6 +261,7 @@
         "Config\\NRage.ini": "Config\\NRage.ini",
         "Config\\XInput Controller 1 Config.xcc": "Config\\XInput Controller 1 Config.xcc",
         "Plugin\\GFX\\GLideN64.ini": "Plugin\\GFX\\GLideN64.ini",
+        "Plugin\\GFX\\GLideN64.default.ini": "Plugin\\GFX\\GLideN64.default.ini",
         "Plugin\\GFX\\cache": "Plugin\\GFX\\cache",
         "Plugin\\GFX\\hires_texture": "Plugin\\GFX\\hires_texture",
         "Plugin\\GFX\\texture_dump": "Plugin\\GFX\\texture_dump"
