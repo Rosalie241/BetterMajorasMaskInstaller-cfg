@@ -347,7 +347,7 @@
       "ReadOnly": false,
       "DisableOnSelected": [
             "MMN64HD (Multi-Language Edition)",
-            "MMN64HD (1080p)"
+            "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
       "InstalledSize": 19110578729,
@@ -385,7 +385,7 @@
       "ReadOnly": false,
       "DisableOnSelected": [
             "MMN64HD",
-            "MMN64HD (1080p)"
+            "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
       "InstalledSize": 20111332076,
@@ -417,7 +417,7 @@
       "Additions": null
     },
     {
-      "Name": "MMN64HD (1080p)",
+      "Name": "MMN64HD (Multi-Language Edition 1080p)",
       "Description": "Majora's Mask HD with Multi-Language Support, downscaled for 1080p.",
       "Enabled": false,
       "ReadOnly": false,
