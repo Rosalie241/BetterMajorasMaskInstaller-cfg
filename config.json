@@ -341,11 +341,52 @@
       }
     },
     {
-      "Name": "MMN64HD (MLE) HTS Texture Pack",
-      "Description": "Majora's Mask HD (MLE) Texture Pack in HTS Format",
+      "Name": "MMN64HD",
+      "Description": "Nerrel's Majora's Mask HD Texture Pack",
       "Enabled": true,
       "ReadOnly": false,
-      "DisableOnSelected": null,
+      "DisableOnSelected": [
+            "MMN64HD (Multi-Language Edition)",
+            "MMN64HD (1080p)"
+      ],
+      "Archive": true,
+      "InstalledSize": 19110578729,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/nerrel.7z.001",
+          "FileName": "MMN64HD.7z.001",
+          "FileHash": "a5cd2f830445f693496f251be8309a81",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/nerrel.7z.002",
+          "FileName": "MMN64HD.7z.002",
+          "FileHash": "757ae61ef9948f53dd5a64d2e071a6d8",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/nerrel.7z.003",
+          "FileName": "MMN64HD.7z.003",
+          "FileHash": "0eae0ea29ddfe3d4dff7b0eef699459f",
+          "FileSize": 278205207
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "MMN64HD (Multi-Language Edition)",
+      "Description": "Majora's Mask HD with Multi-Language Support",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+            "MMN64HD",
+            "MMN64HD (1080p)"
+      ],
       "Archive": true,
       "InstalledSize": 20111332076,
       "ExtractAll": false,
@@ -367,6 +408,38 @@
           "FileName": "MMN64HD_MLE.7z.003",
           "FileHash": "6b718883ef0da574b0a4e7547ada3f42",
           "FileSize": 289976987
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "ZELDA MAJORA'S MASK_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\ZELDA MAJORA'S MASK_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "MMN64HD (1080p)",
+      "Description": "Majora's Mask HD with Multi-Language Support, downscaled for 1080p.",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+            "MMN64HD (Multi-Language Edition)",
+            "MMN64HD"
+      ],
+      "Archive": true,
+      "InstalledSize": 2566680018,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/mobile.7z.001",
+          "FileName": "MMN64HD-mobile.7z.001",
+          "FileHash": "71cd2cd9d0812f3ac6a21687891a288c",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/mobile.7z.002",
+          "FileName": "MMN64HD-mobile.7z.002",
+          "FileHash": "4d9419570f7b1c7b4ea5ac0a805b1ef5",
+          "FileSize": 296008412 
         }
       ],
       "FallbackUrls": null,
