@@ -243,19 +243,20 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 16368,
+      "InstalledSize": 19381,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-11/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-12/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "9b250817c07c7170da66b699687ffeed",
-          "FileSize": 7705
+          "FileHash": "ffde4e438af3c9372360699f0f1e8024",
+          "FileSize": 9015
         }
       ],
       "FallbackUrls": null,
       "Files": {
         "rsp_conf.bin": "rsp_conf.bin",
+        "Majora's Mask.ini": "Majora's Mask.ini",
         "Config\\Project64.cfg": "Config\\Project64.cfg",
         "Config\\AziCfg.bin": "Config\\AziCfg.bin",
         "Config\\NRage.ini": "Config\\NRage.ini",
