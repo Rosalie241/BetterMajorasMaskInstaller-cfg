@@ -338,7 +338,52 @@
           "frameBufferEmulation\\overscanNtscLeft=10",
           "frameBufferEmulation\\overscanNtscRight=10",
           "frameBufferEmulation\\overscanNtscBottom=11"
-        ]
+        ],
+        "Config\\Cheats\\The Legend of Zelda - Majora's Mask (U).cht": [
+          "",
+          "$Experimental Extended Draw Distance - By Darkludx",
+          "Note=This code needs to run on startup. It forces everything to render, which can be problematic in some situations, such as allowing masks and hair to block your view in 1st person and not making enemies despawn from a distance. It also causes many audio issues.",
+          "810DF3D8 3C01",
+          "810DF3DA 3E00",
+          "",
+          "$VI Border Removal Hack for GlideN64 - By Gamemasterplc",
+          "Note=This code needs to run on startup. It partially removes some of the black border around the screen to extend the view without cropping and stretching.",
+          "8109B25C 006B",
+          "8109B29E 02ED",
+          "811405C8 2400",
+          "",
+          "$Disable HUD - By Admentus",
+          "Note=This code will disable the HUD",
+          "D03FDA3D 0000",
+          "813FD76E 0000",
+          "D03FDA3D 0000",
+          "813FD770 0000",
+          "D03FDA3D 0000",
+          "813FD772 0000",
+          "D03FDA3D 0000",
+          "813FD774 0000",
+          "D03FDA3D 0000",
+          "813FD776 0000",
+          "D03FDA3D 0000",
+          "813FD778 0000",
+          "D03FDA3D 0000",
+          "813FD77A 0000",
+          "D03FDA3D 0000",
+          "813FD77C 0000",
+          "D03FDA3D 0000",
+          "813FD77E 0000",
+          "",
+          "$Disable Stars - By Gamemasterplc",
+          "Note=This code will disable the stars",
+          "810FDEBC 1000",
+          "",
+          "$Elegy of emptiness on D-pad - By Admentus",
+          "D11F9B90 0400",
+          "80400144 0067",
+          "D0400145 0067",
+          "80400144 0005",
+          ""
+      ]
       }
     },
     {
@@ -347,8 +392,8 @@
       "Enabled": true,
       "ReadOnly": false,
       "DisableOnSelected": [
-            "MMN64HD (Multi-Language Edition)",
-            "MMN64HD (Multi-Language Edition 1080p)"
+        "MMN64HD (Multi-Language Edition)",
+        "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
       "InstalledSize": 19110578729,
@@ -385,8 +430,8 @@
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-            "MMN64HD",
-            "MMN64HD (Multi-Language Edition 1080p)"
+        "MMN64HD",
+        "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
       "InstalledSize": 20111332076,
@@ -423,8 +468,8 @@
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-            "MMN64HD (Multi-Language Edition)",
-            "MMN64HD"
+        "MMN64HD (Multi-Language Edition)",
+        "MMN64HD"
       ],
       "Archive": true,
       "InstalledSize": 2566680018,
@@ -440,7 +485,7 @@
           "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/mobile.7z.002",
           "FileName": "MMN64HD-mobile.7z.002",
           "FileHash": "4d9419570f7b1c7b4ea5ac0a805b1ef5",
-          "FileSize": 296008412 
+          "FileSize": 296008412
         }
       ],
       "FallbackUrls": null,
