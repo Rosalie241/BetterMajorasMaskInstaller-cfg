@@ -243,14 +243,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 9191,
+      "InstalledSize": 9283,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-13/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-14/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "60dfece4fccf5ee85f0784b37c351e20",
-          "FileSize": 5607
+          "FileHash": "f58588c1b942044869803f70838dd2d1",
+          "FileSize": 5629
         }
       ],
       "FallbackUrls": null,
