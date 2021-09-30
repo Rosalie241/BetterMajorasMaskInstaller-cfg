@@ -434,26 +434,26 @@
         "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
-      "InstalledSize": 20111332076,
+      "InstalledSize": 20173001526,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
           "FileName": "MMN64HD_MLE.7z.001",
-          "FileHash": "37379e0262ad3ab11387bfe78d01807e",
+          "FileHash": "b92dfacc1621d7618db6c551b928949f",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
           "FileName": "MMN64HD_MLE.7z.002",
-          "FileHash": "83c96f0035550ddc1c39cb6f518b9776",
+          "FileHash": "d4f2df302fda1e03d1130d47132eb912",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
           "FileName": "MMN64HD_MLE.7z.003",
-          "FileHash": "6b718883ef0da574b0a4e7547ada3f42",
-          "FileSize": 289976987
+          "FileHash": "635b2f379032272404acc7cc02f1c2b6",
+          "FileSize": 299464121
         }
       ],
       "FallbackUrls": null,
@@ -472,20 +472,20 @@
         "MMN64HD"
       ],
       "Archive": true,
-      "InstalledSize": 2566680018,
+      "InstalledSize": 2307039134,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/mobile.7z.001",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/mobile.7z.001",
           "FileName": "MMN64HD-mobile.7z.001",
-          "FileHash": "71cd2cd9d0812f3ac6a21687891a288c",
+          "FileHash": "1e2ffd1b76ea4d981f32771a74159f99",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/mobile.7z.002",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/mobile.7z.002",
           "FileName": "MMN64HD-mobile.7z.002",
-          "FileHash": "4d9419570f7b1c7b4ea5ac0a805b1ef5",
-          "FileSize": 296008412
+          "FileHash": "db89ee066692d60c7661341923104200",
+          "FileSize": 39188524
         }
       ],
       "FallbackUrls": null,
