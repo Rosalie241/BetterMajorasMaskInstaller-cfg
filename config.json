@@ -247,10 +247,10 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-14/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-15/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "f58588c1b942044869803f70838dd2d1",
-          "FileSize": 5629
+          "FileHash": "e3785265d9693594ca4bd9821bb453e4",
+          "FileSize": 5626 
         }
       ],
       "FallbackUrls": null,
@@ -383,7 +383,7 @@
           "D0400145 0067",
           "80400144 0005",
           ""
-      ]
+        ]
       }
     },
     {
@@ -396,26 +396,26 @@
         "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
-      "InstalledSize": 19110578729,
+      "InstalledSize": 19103074894,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/nerrel.7z.001",
+          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
           "FileName": "MMN64HD.7z.001",
-          "FileHash": "a5cd2f830445f693496f251be8309a81",
-          "FileSize": 2145386496
+          "FileHash": "6c789cc875051a5248631327dcbd42f2",
+          "FileSize": 1572864000
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/nerrel.7z.002",
+          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
           "FileName": "MMN64HD.7z.002",
-          "FileHash": "757ae61ef9948f53dd5a64d2e071a6d8",
-          "FileSize": 2145386496
+          "FileHash": "c1b270349a9f26ba6953ded019a8b8e2",
+          "FileSize": 1572864000
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-14/nerrel.7z.003",
+          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
           "FileName": "MMN64HD.7z.003",
-          "FileHash": "0eae0ea29ddfe3d4dff7b0eef699459f",
-          "FileSize": 278205207
+          "FileHash": "5c63863b6f7c5846fad8adbe1025fbde",
+          "FileSize": 1294343430
         }
       ],
       "FallbackUrls": null,
