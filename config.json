@@ -396,26 +396,26 @@
         "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
-      "InstalledSize": 19103074894,
+      "InstalledSize": 19104123507,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1b/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
           "FileName": "MMN64HD.7z.001",
-          "FileHash": "6c789cc875051a5248631327dcbd42f2",
+          "FileHash": "d0c6a715a5da33af9c2127eccbfa9771",
           "FileSize": 1572864000
         },
         {
-          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1b/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
           "FileName": "MMN64HD.7z.002",
-          "FileHash": "c1b270349a9f26ba6953ded019a8b8e2",
+          "FileHash": "aa41c825501be91e40c12dc06fbb0aaa",
           "FileSize": 1572864000
         },
         {
-          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/Nerrel/MMHD/releases/download/v1.1b/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
           "FileName": "MMN64HD.7z.003",
-          "FileHash": "5c63863b6f7c5846fad8adbe1025fbde",
-          "FileSize": 1294343430
+          "FileHash": "c218845fae3f9487c1774d810e2f75ce",
+          "FileSize": 1293659947
         }
       ],
       "FallbackUrls": null,
