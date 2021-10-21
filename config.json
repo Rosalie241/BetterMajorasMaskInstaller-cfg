@@ -81,14 +81,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 10863364,
+      "InstalledSize": 10935044,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-09-26/GLideN64-46a967f-Windows-Project64-Qt-x86.zip",
-          "FileName": "GLideN64-46a967f-Windows-Project64-Qt-x86.zip",
-          "FileHash": "728853d98309f0e4e7e8b4f385405c34",
-          "FileSize": 5575135
+          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2021-10-17/GLideN64-4c7b17d-Windows-Project64-Qt-x86.zip",
+          "FileName": "GLideN64-4c7b17d-Windows-Project64-Qt-x86.zip",
+          "FileHash": "344ea1e79ac4d1fb47651e58233c1c11",
+          "FileSize": 5588049
         }
       ],
       "FallbackUrls": null,
@@ -272,6 +272,7 @@
           "",
           "[ZELDA%20MAJORA%27S%20MASK]",
           "generalEmulation\\enableLOD=0",
+          "generalEmulation\\enableFastInaccurateShaders=1",
           "graphics2D\\correctTexrectCoords=1",
           "graphics2D\\bgMode=0",
           "textureFilter\\txCacheSize=1047527424",
