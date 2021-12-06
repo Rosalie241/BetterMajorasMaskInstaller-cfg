@@ -552,7 +552,7 @@
       "Additions": null
     },
     {
-      "Name": "Mario Kart 64 HD HTS Texture Pack",
+      "Name": "Mario Kart 64 HD",
       "Description": "Mario Kart 64 HD Texture Pack in HTS Format",
       "Enabled": false,
       "ReadOnly": false,
@@ -575,7 +575,7 @@
       "Additions": null
     },
     {
-      "Name": "RE2 Reloaded HTS Texture Pack",
+      "Name": "RE2 Reloaded",
       "Description": "RE2 Reloaded Texture Pack in HTS Format",
       "Enabled": false,
       "ReadOnly": false,
@@ -610,7 +610,7 @@
       "Additions": null
     },
     {
-      "Name": "SM64 Reloaded HTS Texture Pack",
+      "Name": "SM64 Reloaded",
       "Description": "Super Mario 64 UHD Texture Pack in HTS Format",
       "Enabled": false,
       "ReadOnly": false,
@@ -633,7 +633,7 @@
       "Additions": null
     },
     {
-      "Name": "Super Smash Bros. HD HTS Texture Pack",
+      "Name": "Super Smash Bros. HD",
       "Description": "Super Smash Bros. HD Texture Pack in HTS Format",
       "Enabled": false,
       "ReadOnly": false,
