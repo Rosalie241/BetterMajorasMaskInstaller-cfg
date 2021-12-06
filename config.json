@@ -435,26 +435,26 @@
         "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
-      "InstalledSize": 20173001526,
+      "InstalledSize": 20224551166,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-12-05/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
           "FileName": "MMN64HD_MLE.7z.001",
-          "FileHash": "b92dfacc1621d7618db6c551b928949f",
+          "FileHash": "2b40fea5898848197571ecc4c710ee76",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-12-05/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
           "FileName": "MMN64HD_MLE.7z.002",
-          "FileHash": "d4f2df302fda1e03d1130d47132eb912",
+          "FileHash": "3f0a881f031d2b182cca4a7ef6c183d4",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-12-05/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
           "FileName": "MMN64HD_MLE.7z.003",
-          "FileHash": "635b2f379032272404acc7cc02f1c2b6",
-          "FileSize": 299464121
+          "FileHash": "b868907267ad4ce6a7a0ad3c484ce697",
+          "FileSize": 302554843
         }
       ],
       "FallbackUrls": null,
@@ -473,20 +473,14 @@
         "MMN64HD"
       ],
       "Archive": true,
-      "InstalledSize": 2307039134,
+      "InstalledSize": 2081396105,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/mobile.7z.001",
-          "FileName": "MMN64HD-mobile.7z.001",
-          "FileHash": "1e2ffd1b76ea4d981f32771a74159f99",
-          "FileSize": 2145386496
-        },
-        {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-09-30/mobile.7z.002",
-          "FileName": "MMN64HD-mobile.7z.002",
-          "FileHash": "db89ee066692d60c7661341923104200",
-          "FileSize": 39188524
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2021-12-05/mm-mobile.zip",
+          "FileName": "MMN64HD-mobile.zip",
+          "FileHash": "6b81690316cf299cf771d2124167c6cc",
+          "FileSize": 2044497893
         }
       ],
       "FallbackUrls": null,
@@ -496,32 +490,59 @@
       "Additions": null
     },
     {
-      "Name": "OoT Reloaded HTS Texture Pack",
-      "Description": "Ocarina Of Time UHD Texture Pack in HTS Format",
+      "Name": "OoT Reloaded",
+      "Description": "Ocarina of Time UHD Texture Pack",
       "Enabled": false,
       "ReadOnly": false,
-      "DisableOnSelected": null,
+      "DisableOnSelected": [
+        "OoT Reloaded (1080p)"
+      ],
       "Archive": true,
-      "InstalledSize": 23989336797,
+      "InstalledSize": 22563939533,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.11.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.0.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
           "FileName": "oot-reloaded.7z.001",
-          "FileHash": "7cfce22a5756d261f6024eaa4a5af3e8",
+          "FileHash": "cba025746a08d8ae119daee8bb0cfca2",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.11.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.0.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
           "FileName": "oot-reloaded.7z.002",
-          "FileHash": "a91b28ba8b58bb22c81caea1f508dd64",
+          "FileHash": "b453fdf9276f342eaa8b4d3429b1f080",
+          "FileSize": 905819362
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "THE LEGEND OF ZELDA_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\THE LEGEND OF ZELDA_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "OoT Reloaded (1080p)",
+      "Description": "Ocarina of Time UHD Texture Pack, downscaled for 1080p.",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "OoT Reloaded"
+      ],
+      "Archive": true,
+      "InstalledSize": 2707550660,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.0.0/oot-mobile.zip.001",
+          "FileName": "oot-mobile.zip.001",
+          "FileHash": "96e0b86730b61ebe92bd0506646511da",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v9.11.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.003",
-          "FileName": "oot-reloaded.7z.003",
-          "FileHash": "45d0c6ff2014349b3c9fa91bd00659dc",
-          "FileSize": 325363780
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.0.0/oot-mobile.zip.002",
+          "FileName": "oot-mobile.zip.002",
+          "FileHash": "d7507d435300bf6d4e0f8baed8a4a006",
+          "FileSize": 511733675
         }
       ],
       "FallbackUrls": null,
