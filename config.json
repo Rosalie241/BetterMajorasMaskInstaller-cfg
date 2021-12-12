@@ -552,34 +552,13 @@
       "Additions": null
     },
     {
-      "Name": "Mario Kart 64 HD",
-      "Description": "Mario Kart 64 HD Texture Pack (HTS)",
-      "Enabled": false,
-      "ReadOnly": false,
-      "DisableOnSelected": null,
-      "Archive": true,
-      "InstalledSize": 1213746413,
-      "ExtractAll": false,
-      "Urls": [
-        {
-          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2021-08-17/MARIOKART64_HIRESTEXTURES.zip",
-          "FileName": "MK64-HD.zip",
-          "FileHash": "a15ab63303b424ee5d6d89e3efdd5218",
-          "FileSize": 1198387035
-        }
-      ],
-      "FallbackUrls": null,
-      "Files": {
-        "MARIOKART64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\MARIOKART64_HIRESTEXTURES.hts"
-      },
-      "Additions": null
-    },
-    {
       "Name": "RE2 Reloaded",
-      "Description": "RE2 Reloaded Texture Pack (HTS)",
+      "Description": "RE2 Reloaded HD Texture Pack (HTS)",
       "Enabled": false,
       "ReadOnly": false,
-      "DisableOnSelected": null,
+      "DisableOnSelected": [
+        "RE2 Reloaded (1080p)"
+      ],
       "Archive": true,
       "InstalledSize": 16775408633,
       "ExtractAll": false,
@@ -601,6 +580,37 @@
           "FileName": "re2-reloaded.7z.003",
           "FileHash": "407937b27f0a74beccccb09e4fbed841",
           "FileSize": 954001988
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "Resident Evil II_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Resident Evil II_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "RE2 Reloaded (1080p)",
+      "Description": "RE2 Reloaded HD Texture Pack (HTS), downscaled for 1080p",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "RE2 Reloaded"
+      ],
+      "Archive": true,
+      "InstalledSize": 2382838586,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.0/re2-mobile.zip.001",
+          "FileName": "re2-mobile.zip.001",
+          "FileHash": "ad98cb0db7b225ad35e33f42aba9e941",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.0/re2-mobile.zip.002",
+          "FileName": "re2-mobile.zip.002",
+          "FileHash": "fe70329261213fc2a3599c917bacd26b",
+          "FileSize": 221489560
         }
       ],
       "FallbackUrls": null,
@@ -656,6 +666,29 @@
       "FallbackUrls": null,
       "Files": {
         "SUPER MARIO 64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SUPER MARIO 64_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "Mario Kart 64 HD",
+      "Description": "Mario Kart 64 HD Texture Pack (HTS)",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 1213746413,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2021-08-17/MARIOKART64_HIRESTEXTURES.zip",
+          "FileName": "MK64-HD.zip",
+          "FileHash": "a15ab63303b424ee5d6d89e3efdd5218",
+          "FileSize": 1198387035
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "MARIOKART64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\MARIOKART64_HIRESTEXTURES.hts"
       },
       "Additions": null
     },
