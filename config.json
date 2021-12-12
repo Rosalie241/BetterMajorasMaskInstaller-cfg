@@ -389,7 +389,7 @@
     },
     {
       "Name": "MMN64HD",
-      "Description": "Nerrel's Majora's Mask HD Texture Pack",
+      "Description": "Nerrel's Majora's Mask HD Texture Pack (HTS)",
       "Enabled": true,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -465,7 +465,7 @@
     },
     {
       "Name": "MMN64HD (Multi-Language Edition 1080p)",
-      "Description": "Majora's Mask HD with Multi-Language Support, downscaled for 1080p.",
+      "Description": "Majora's Mask HD with Multi-Language Support, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -491,7 +491,7 @@
     },
     {
       "Name": "OoT Reloaded",
-      "Description": "Ocarina of Time UHD Texture Pack",
+      "Description": "Ocarina of Time UHD Texture Pack (HTS)",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -522,7 +522,7 @@
     },
     {
       "Name": "OoT Reloaded (1080p)",
-      "Description": "Ocarina of Time UHD Texture Pack, downscaled for 1080p.",
+      "Description": "Ocarina of Time UHD Texture Pack (HTS), downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -553,7 +553,7 @@
     },
     {
       "Name": "Mario Kart 64 HD",
-      "Description": "Mario Kart 64 HD Texture Pack in HTS Format",
+      "Description": "Mario Kart 64 HD Texture Pack (HTS)",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": null,
@@ -576,7 +576,7 @@
     },
     {
       "Name": "RE2 Reloaded",
-      "Description": "RE2 Reloaded Texture Pack in HTS Format",
+      "Description": "RE2 Reloaded Texture Pack (HTS)",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": null,
@@ -611,19 +611,46 @@
     },
     {
       "Name": "SM64 Reloaded",
-      "Description": "Super Mario 64 UHD Texture Pack in HTS Format",
+      "Description": "Super Mario 64 UHD Texture Pack (HTS)",
       "Enabled": false,
       "ReadOnly": false,
-      "DisableOnSelected": null,
+      "DisableOnSelected": [
+        "SM64 Reloaded (1080p)"
+      ],
       "Archive": true,
-      "InstalledSize": 3313067218,
+      "InstalledSize": 3382095977,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.2.0/sm64-reloaded-v2.2.0-gliden64-uhts.7z",
+          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.3.0/sm64-reloaded-v2.3.0-gliden64-uhts.7z",
           "FileName": "SM64-Reloaded.7z",
-          "FileHash": "400f236e2848245d99c438d862a86a0b",
-          "FileSize": 590165897
+          "FileHash": "31f2131224084cbf5486a4f9986047a2",
+          "FileSize": 557934020
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "SUPER MARIO 64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SUPER MARIO 64_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "SM64 Reloaded (1080p)",
+      "Description": "Super Mario 64 UHD Texture Pack (HTS), downscaled for 1080p",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "SM64 Reloaded"
+      ],
+      "Archive": true,
+      "InstalledSize": 317095005,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.3.0/sm64-reloaded-v2.3.0-gliden64-chts.zip",
+          "FileName": "SM64-1080p.zip",
+          "FileHash": "e81556a682bf1a2278ad9717fefa6ea2",
+          "FileSize": 311384408
         }
       ],
       "FallbackUrls": null,
@@ -634,7 +661,7 @@
     },
     {
       "Name": "Super Smash Bros. HD",
-      "Description": "Super Smash Bros. HD Texture Pack in HTS Format",
+      "Description": "Super Smash Bros. HD Texture Pack (HTS)",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": null,
