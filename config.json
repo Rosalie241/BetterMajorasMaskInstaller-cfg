@@ -681,16 +681,43 @@
       "Description": "Mario Kart 64 HD Texture Pack (HTS)",
       "Enabled": false,
       "ReadOnly": false,
-      "DisableOnSelected": null,
+      "DisableOnSelected": [
+        "Mario Kart 64 HD (Mobile)"
+      ],
       "Archive": true,
-      "InstalledSize": 1213746413,
+      "InstalledSize": 9427621356,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2021-08-17/MARIOKART64_HIRESTEXTURES.zip",
-          "FileName": "MK64-HD.zip",
-          "FileHash": "a15ab63303b424ee5d6d89e3efdd5218",
-          "FileSize": 1198387035
+          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2021-12-31/mk64-hd--2021-12-31--gliden64-uhts.7z",
+          "FileName": "MK64-HD.7z",
+          "FileHash": "12b25873aabec7c56d5ff2b63fc99629",
+          "FileSize": 504165278
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "MARIOKART64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\MARIOKART64_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "Mario Kart 64 HD (Mobile)",
+      "Description": "Mario Kart 64 HD Texture Pack (HTS), downscaled for 1080p",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "Mario Kart 64 HD"
+      ],
+      "Archive": true,
+      "InstalledSize": 767178096,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2021-12-31/mk64-hd--2021-12-31--gliden64-chts.zip",
+          "FileName": "MK64-Mobile.zip",
+          "FileHash": "06e1ff15d69fa1952587ee51896e0741",
+          "FileSize": 753382442
         }
       ],
       "FallbackUrls": null,
