@@ -112,14 +112,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 361472,
+      "InstalledSize": 475136,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/angrylion-rdp-plus/releases/download/v1.6-1/project64-angrylion-plus-x86.zip",
+          "Url": "https://github.com/GhostlyDark/angrylion-rdp-plus/releases/download/v1.6-23/project64-angrylion-plus-x86.zip",
           "FileName": "angrylion-plus.dll",
-          "FileHash": "de6e3cb0e0a66149a01b210a4e9714f9",
-          "FileSize": 157136
+          "FileHash": "f0b0c1cd0427b75a29e39861133097d4",
+          "FileSize": 223010
         }
       ],
       "FallbackUrls": null,
