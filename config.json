@@ -504,20 +504,20 @@
         "OoT Reloaded (1080p)"
       ],
       "Archive": true,
-      "InstalledSize": 22088700781,
+      "InstalledSize": 21667367942,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.1.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.2.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
           "FileName": "oot-reloaded.7z.001",
-          "FileHash": "e318ff397437ece5a000d8c7f7cebd76",
+          "FileHash": "5c053af151d6a0465eea932c293f9661",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.1.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.2.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
           "FileName": "oot-reloaded.7z.002",
-          "FileHash": "e076744796cf158d925a6c838e6f1498",
-          "FileSize": 904211596
+          "FileHash": "417b9d355cd0df8e17f41da2eba9e088",
+          "FileSize": 637769254
         }
       ],
       "FallbackUrls": null,
@@ -535,20 +535,20 @@
         "OoT Reloaded"
       ],
       "Archive": true,
-      "InstalledSize": 2736651389,
+      "InstalledSize": 2806739560,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.1.0/oot-mobile.zip.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.2.0/oot-mobile.zip.001",
           "FileName": "oot-mobile.zip.001",
-          "FileHash": "e416664fc139507f16d79d816dec1503",
+          "FileHash": "60eefa4077d241ecb26f8803e2e9c532",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.1.0/oot-mobile.zip.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.2.0/oot-mobile.zip.002",
           "FileName": "oot-mobile.zip.002",
-          "FileHash": "d329e99570d2854ad6e5ebfaa425f7cf",
-          "FileSize": 541140723
+          "FileHash": "b0d5ce93b0346d68eba06b1faaf3bc19",
+          "FileSize": 608952184
         }
       ],
       "FallbackUrls": null,
