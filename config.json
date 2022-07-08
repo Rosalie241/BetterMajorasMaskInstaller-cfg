@@ -7,7 +7,7 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 7819591,
+      "InstalledSize": 7766879,
       "ExtractAll": true,
       "Urls": [
         {
@@ -19,10 +19,10 @@
       ],
       "FallbackUrls": [
         {
-          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5717/Project64.v4.0.0-5717.noplugins.zip",
-          "FileName": "Project64.v4.0.0-5717.noplugins.zip",
-          "FileHash": "3c8f84d595fb8c4a62d3d5a9fce51c50",
-          "FileSize": 3438658
+          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5830/Project64.v4.0.0-5830.noplugins.zip",
+          "FileName": "Project64.v4.0.0-5830.noplugins.zip",
+          "FileHash": "06668e1200474f86a0cda6cbca8ae725",
+          "FileSize": 3446747
         }
       ],
       "Files": null,
@@ -88,14 +88,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 10958356,
+      "InstalledSize": 11029526,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2022-04-02/GLideN64-9df6325-Windows-Project64-Qt-x86.zip",
-          "FileName": "GLideN64-9df6325-Windows-Project64-Qt-x86.zip",
-          "FileHash": "0cc93acfab572e85fe88aa8a0a07b640",
-          "FileSize": 5592876
+          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2022-06-12/GLideN64-cf5b53c-Windows-Project64-Qt-x86.zip",
+          "FileName": "GLideN64-cf5b53c-Windows-Project64-Qt-x86.zip",
+          "FileHash": "c370deb7593d79acb8ccb4a741ae2143",
+          "FileSize": 5624693 
         }
       ],
       "FallbackUrls": null,
@@ -116,10 +116,10 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/angrylion-rdp-plus/releases/download/v1.6-23/project64-angrylion-plus-x86.zip",
+          "Url": "https://github.com/GhostlyDark/angrylion-rdp-plus/releases/download/v1.6-24/project64-angrylion-plus-x86.zip",
           "FileName": "angrylion-plus.dll",
-          "FileHash": "f0b0c1cd0427b75a29e39861133097d4",
-          "FileSize": 223010
+          "FileHash": "618242fa87dcf995d97b0dabc46f92a6",
+          "FileSize": 223017
         }
       ],
       "FallbackUrls": null,
@@ -135,14 +135,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": false,
-      "InstalledSize": 5196024,
+      "InstalledSize": 3282654,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/pj64-parallelrdp/releases/download/1.2/pj64-parallelrdp.dll",
+          "Url": "https://github.com/Rosalie241/pj64-parallelrdp/releases/download/1.3/pj64-parallelrdp.dll",
           "FileName": "pj64-parallelrdp.dll",
-          "FileHash": "b6dbb26d1edd4b680d52a00d3dd26c57",
-          "FileSize": 5196024
+          "FileHash": "4163b2e289824aa87f6e406e88b4d41e",
+          "FileSize": 3282654
         }
       ],
       "FallbackUrls": null,
