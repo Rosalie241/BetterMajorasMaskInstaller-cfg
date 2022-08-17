@@ -684,14 +684,14 @@
         "Mario Kart 64 HD (Mobile)"
       ],
       "Archive": true,
-      "InstalledSize": 10821852229,
+      "InstalledSize": 10852147607,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2022-05-18/mk64-hd--2022-05-18--gliden64-uhts.7z",
+          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2022-08-17/mk64-hd--2022-08-17--gliden64-uhts.7z",
           "FileName": "MK64-HD.7z",
-          "FileHash": "06b935c2cf00bf7914132a7c3d8db253",
-          "FileSize": 496716151
+          "FileHash": "a3394b72596d251e3d29ed418f2b1d5b",
+          "FileSize": 514211995 
         }
       ],
       "FallbackUrls": null,
@@ -709,14 +709,14 @@
         "Mario Kart 64 HD"
       ],
       "Archive": true,
-      "InstalledSize": 579125466,
+      "InstalledSize": 618564459,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2022-05-18/mk64-hd--2022-05-18--gliden64-chts.zip",
+          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2022-08-17/mk64-hd--2022-08-17--gliden64-chts.zip",
           "FileName": "MK64-Mobile.zip",
-          "FileHash": "ef455f89b8a1a01ad41019f74cf18633",
-          "FileSize": 565760326
+          "FileHash": "cf6acd5c95e58c691e5e1b3e10e38319",
+          "FileSize": 604579125
         }
       ],
       "FallbackUrls": null,
