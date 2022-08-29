@@ -11,10 +11,10 @@
       "ExtractAll": true,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5830/Project64.v4.0.0-5830.noplugins.zip",
-          "FileName": "Project64.v4.0.0-5830.noplugins.zip",
-          "FileHash": "06668e1200474f86a0cda6cbca8ae725",
-          "FileSize": 3446747
+          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5889/Dev-4.0.0-5889-52a30b78-Win32.zip",
+          "FileName": "Project64.v4.0.0-5889.zip",
+          "FileHash": "14ece3d89d1044e986d8c5f04f6e9dad",
+          "FileSize": 3451859
         }
       ],
       "FallbackUrls": [
