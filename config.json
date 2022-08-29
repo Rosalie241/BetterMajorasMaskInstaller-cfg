@@ -11,10 +11,10 @@
       "ExtractAll": true,
       "Urls": [
         {
-          "Url": "appveyor:project64/project64#Win32#develop",
-          "FileName": null,
-          "FileHash": null,
-          "FileSize": 0
+          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5830/Project64.v4.0.0-5830.noplugins.zip",
+          "FileName": "Project64.v4.0.0-5830.noplugins.zip",
+          "FileHash": "06668e1200474f86a0cda6cbca8ae725",
+          "FileSize": 3446747
         }
       ],
       "FallbackUrls": [
