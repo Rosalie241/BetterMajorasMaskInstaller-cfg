@@ -1,4 +1,10 @@
 {
+  "ShortcutInfo": {
+    "FileName": "Project64 HD.lnk",
+    "Description": "Project64 installed by BetterMajorasMaskInstaller",
+    "Executable": "PJ64Launcher.exe",
+    "IconLocation": "Project64.exe"
+  },
   "Components": [
     {
       "Name": "Project64",
