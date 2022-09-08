@@ -13,14 +13,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 7766879,
+      "InstalledSize": 7819591,
       "ExtractAll": true,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5830/Project64.v4.0.0-5830.noplugins.zip",
-          "FileName": "Project64.v4.0.0-5830.noplugins.zip",
-          "FileHash": "1d5471ec9a9652236d853396be7ca754",
-          "FileSize": 3446747
+          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5717/Project64.v4.0.0-5717.noplugins.zip",
+          "FileName": "Project64.v4.0.0-5717.noplugins.zip",
+          "FileHash": "3c8f84d595fb8c4a62d3d5a9fce51c50",
+          "FileSize": 3438658
         }
       ],
       "FallbackUrls": null,
