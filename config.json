@@ -17,9 +17,9 @@
       "ExtractAll": true,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5717/Project64.v4.0.0-5717.noplugins.zip",
-          "FileName": "Project64.v4.0.0-5717.noplugins.zip",
-          "FileHash": "3c8f84d595fb8c4a62d3d5a9fce51c50",
+          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5751/Project64.v4.0.0-5751.noplugins.zip",
+          "FileName": "Project64.v4.0.0-5751.noplugins.zip",
+          "FileHash": "8e9fe0ac4949e98f3f24745f72b26c07",
           "FileSize": 3438658
         }
       ],
