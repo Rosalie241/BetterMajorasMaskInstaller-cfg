@@ -680,17 +680,17 @@
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "Mario Kart 64 HD (Mobile)"
+        "Mario Kart 64 HD (1080p)"
       ],
       "Archive": true,
-      "InstalledSize": 10852147607,
+      "InstalledSize": 11250643714,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2022-08-17/mk64-hd--2022-08-17--gliden64-uhts.7z",
+          "Url": "https://github.com/AndratVA/Mario-Kart-64-HD/releases/download/2023-03-11/mk64-hd--2023-03-11--gliden64-uhts.7z",
           "FileName": "MK64-HD.7z",
-          "FileHash": "a3394b72596d251e3d29ed418f2b1d5b",
-          "FileSize": 514211995 
+          "FileHash": "228e5656afa8b9d5b4a38c2b8d8cd252",
+          "FileSize": 543285770
         }
       ],
       "FallbackUrls": null,
@@ -700,7 +700,7 @@
       "Additions": null
     },
     {
-      "Name": "Mario Kart 64 HD (Mobile)",
+      "Name": "Mario Kart 64 HD (1080p)",
       "Description": "Mario Kart 64 HD Texture Pack (HTS), downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
@@ -708,14 +708,14 @@
         "Mario Kart 64 HD"
       ],
       "Archive": true,
-      "InstalledSize": 618564459,
+      "InstalledSize": 4217582338,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/Mario-Kart-64-HD/releases/download/2022-08-17/mk64-hd--2022-08-17--gliden64-chts.zip",
-          "FileName": "MK64-Mobile.zip",
-          "FileHash": "cf6acd5c95e58c691e5e1b3e10e38319",
-          "FileSize": 604579125
+          "Url": "https://github.com/AndratVA/Mario-Kart-64-HD/releases/download/2023-03-11/mk64-hd--2023-03-11--gliden64-uhts-1080p.7z",
+          "FileName": "MK64-HD-Performance.7z",
+          "FileHash": "6db6a2eefceba21c456a5449785e4f94",
+          "FileSize": 273381449
         }
       ],
       "FallbackUrls": null,
