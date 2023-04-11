@@ -277,7 +277,6 @@
         "Plugin\\GFX\\GLideN64.custom.ini": [
           "",
           "[ZELDA%20MAJORA%27S%20MASK]",
-          "generalEmulation\\enableFastInaccurateShaders=1",
           "graphics2D\\correctTexrectCoords=1",
           "graphics2D\\bgMode=0",
           "textureFilter\\txCacheSize=1047527424",
@@ -299,10 +298,21 @@
           "frameBufferEmulation\\overscanNtscRight=4",
           "frameBufferEmulation\\overscanNtscBottom=3",
           "",
+          "[OOT%2BMM%20COMBO]",
+          "graphics2D\\correctTexrectCoords=1",
+          "graphics2D\\bgMode=0",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscLeft=4",
+          "frameBufferEmulation\\overscanNtscRight=4",
+          "frameBufferEmulation\\overscanNtscBottom=3",
+          "",
           "[MARIOKART64]",
           "graphics2D\\enableNativeResTexrects=0",
           "graphics2D\\enableTexCoordBounds=0",
-          "frameBufferEmulation\\nativeResFactor=6",
+          "frameBufferEmulation\\nativeResFactor=8",
           "textureFilter\\txCacheSize=1047527424",
           "textureFilter\\txHiresTextureFileStorage=1",
           "textureFilter\\txHiresEnable=1",
@@ -440,26 +450,26 @@
         "MMN64HD (Multi-Language Edition 1080p)"
       ],
       "Archive": true,
-      "InstalledSize": 20576358996,
+      "InstalledSize": 21401894573,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2022-01-29/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
           "FileName": "MMN64HD_MLE.7z.001",
-          "FileHash": "61128e309c3eac7bfdb717995dd895c4",
+          "FileHash": "f4a35dd3be9e8e65c48f3a6d85669509",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2022-01-29/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
           "FileName": "MMN64HD_MLE.7z.002",
-          "FileHash": "e146cdfd74f824f91374b86785f511f3",
+          "FileHash": "0f9457be62b71819cdaa064ef845a836",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2022-01-29/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
           "FileName": "MMN64HD_MLE.7z.003",
-          "FileHash": "693b043e2b1b4525584a7e9cfac189f6",
-          "FileSize": 336139286
+          "FileHash": "d95f67c48edf0bc161c43d11a48065e5",
+          "FileSize": 424782050
         }
       ],
       "FallbackUrls": null,
@@ -478,14 +488,20 @@
         "MMN64HD"
       ],
       "Archive": true,
-      "InstalledSize": 2150671944,
+      "InstalledSize": 2251907763,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2022-01-29/mm-n64hd-mle--2022-01-29--chts.zip",
-          "FileName": "MMN64HD-mobile.zip",
-          "FileHash": "f12e0a3bb7f7540b41d958132d8d6289",
-          "FileSize": 2112341404
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/mm-mobile.zip.001",
+          "FileName": "MMN64HD-mobile.zip.001",
+          "FileHash": "04b7034058387196d4cbb5c898800a30",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/mm-mobile.zip.002",
+          "FileName": "MMN64HD-mobile.zip.002",
+          "FileHash": "9968381033d2519bb6cf6ff2a0fa1dc7",
+          "FileSize": 268128775
         }
       ],
       "FallbackUrls": null,
@@ -503,20 +519,20 @@
         "OoT Reloaded (1080p)"
       ],
       "Archive": true,
-      "InstalledSize": 21667367942,
+      "InstalledSize": 23884568236,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.2.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.3.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
           "FileName": "oot-reloaded.7z.001",
-          "FileHash": "5c053af151d6a0465eea932c293f9661",
+          "FileHash": "258aee8679a62d5fd2e6fb843ce36f6e",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.2.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.3.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
           "FileName": "oot-reloaded.7z.002",
-          "FileHash": "417b9d355cd0df8e17f41da2eba9e088",
-          "FileSize": 637769254
+          "FileHash": "fd5b7f06cc7448a063eb20b9cae07f17",
+          "FileSize": 1134326829
         }
       ],
       "FallbackUrls": null,
@@ -534,25 +550,99 @@
         "OoT Reloaded"
       ],
       "Archive": true,
-      "InstalledSize": 2806739560,
+      "InstalledSize": 2449377553,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.2.0/oot-mobile.zip.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.3.0/oot-mobile.zip.001",
           "FileName": "oot-mobile.zip.001",
-          "FileHash": "60eefa4077d241ecb26f8803e2e9c532",
+          "FileHash": "4492ec00e3d8b15ae58f4c9a8e8551bf",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.2.0/oot-mobile.zip.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.3.0/oot-mobile.zip.002",
           "FileName": "oot-mobile.zip.002",
-          "FileHash": "b0d5ce93b0346d68eba06b1faaf3bc19",
-          "FileSize": 608952184
+          "FileHash": "d1b7f3200c2ad0c658721d85053f401f",
+          "FileSize": 268128775
         }
       ],
       "FallbackUrls": null,
       "Files": {
         "THE LEGEND OF ZELDA_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\THE LEGEND OF ZELDA_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "OoT+MM Combo Reloaded",
+      "Description": "OoT Reloaded and MM N64HD MLE combined for OoTMM Combo Rando (ootmm.com) (HTS)",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "OoT+MM Combo Reloaded (1080p)"
+      ],
+      "Archive": true,
+      "InstalledSize": 39085376808,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm.7z.001",
+          "FileName": "oot-mm.7z.001",
+          "FileHash": "173383a8fbb18bacbc4f0736e0997288",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm.7z.002",
+          "FileName": "oot-mm.7z.002",
+          "FileHash": "a1f8f60c32cb0a9c56cf486c475fb425",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm.7z.003",
+          "FileName": "oot-mm.7z.003",
+          "FileHash": "91885951f16e71530c6065d3f21b1a99",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm.7z.004",
+          "FileName": "oot-mm.7z.004",
+          "FileHash": "f5bf236c7d09e0bc4191e67dfbc7dfde",
+          "FileSize": 694723421
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "OOT+MM COMBO_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\OOT+MM COMBO_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "OoT+MM Combo Reloaded (1080p)",
+      "Description": "OoT Reloaded and MM N64HD MLE combined for OoTMM Combo Rando (ootmm.com) (HTS 1080p)",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "OoT+MM Combo Reloaded"
+      ],
+      "Archive": true,
+      "InstalledSize": 4137618364,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm-mobile.zip.001",
+          "FileName": "oot-mm-mobile.zip.001",
+          "FileHash": "6368a7b872f222585d6818b9361d0669",
+          "FileSize": 2145386496
+        },
+        {
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm-mobile.zip.002",
+          "FileName": "oot-mm-mobile.zip.002",
+          "FileHash": "1777cdae8cded710d3603c6f28576a1a",
+          "FileSize": 1933077428
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "OOT+MM COMBO_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\OOT+MM COMBO_HIRESTEXTURES.hts"
       },
       "Additions": null
     },
