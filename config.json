@@ -454,19 +454,19 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
           "FileName": "MMN64HD_MLE.7z.001",
           "FileHash": "f4a35dd3be9e8e65c48f3a6d85669509",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
           "FileName": "MMN64HD_MLE.7z.002",
           "FileHash": "0f9457be62b71819cdaa064ef845a836",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
           "FileName": "MMN64HD_MLE.7z.003",
           "FileHash": "d95f67c48edf0bc161c43d11a48065e5",
           "FileSize": 424782050
@@ -492,13 +492,13 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/mm-mobile.zip.001",
+          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/mm-mobile.zip.001",
           "FileName": "MMN64HD-mobile.zip.001",
           "FileHash": "04b7034058387196d4cbb5c898800a30",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD/releases/download/2023-04-13/mm-mobile.zip.002",
+          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/mm-mobile.zip.002",
           "FileName": "MMN64HD-mobile.zip.002",
           "FileHash": "9968381033d2519bb6cf6ff2a0fa1dc7",
           "FileSize": 268128775
