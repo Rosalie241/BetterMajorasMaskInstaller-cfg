@@ -253,9 +253,9 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-16/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-17/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "3ab500c37b611dca2697a40319d33881",
+          "FileHash": "ba8f3be766f4103dcd7ec50a47de3696",
           "FileSize": 5626 
         }
       ],
@@ -312,7 +312,7 @@
           "[MARIOKART64]",
           "graphics2D\\enableNativeResTexrects=0",
           "graphics2D\\enableTexCoordBounds=0",
-          "frameBufferEmulation\\nativeResFactor=8",
+          "frameBufferEmulation\\nativeResFactor=4",
           "textureFilter\\txCacheSize=1047527424",
           "textureFilter\\txHiresTextureFileStorage=1",
           "textureFilter\\txHiresEnable=1",
@@ -336,6 +336,7 @@
           "frameBufferEmulation\\overscanNtscBottom=15",
           "",
           "[SUPER%20MARIO%2064]",
+          "generalEmulation\\enableLOD=1",
           "textureFilter\\txCacheSize=1047527424",
           "textureFilter\\txHiresTextureFileStorage=1",
           "textureFilter\\txHiresEnable=1",
