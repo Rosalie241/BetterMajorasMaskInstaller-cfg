@@ -405,12 +405,12 @@
     },
     {
       "Name": "MMN64HD",
-      "Description": "Nerrel's Majora's Mask HD Texture Pack (HTS)",
+      "Description": "Nerrel's Majora's Mask HD texture pack",
       "Enabled": true,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "MMN64HD (Multi-Language Edition)",
-        "MMN64HD (Multi-Language Edition 1080p)"
+        "MM Reloaded",
+        "MM Reloaded (0.5x)"
       ],
       "Archive": true,
       "InstalledSize": 19104123507,
@@ -442,35 +442,35 @@
       "Additions": null
     },
     {
-      "Name": "MMN64HD (Multi-Language Edition)",
-      "Description": "Majora's Mask HD with Multi-Language Support",
+      "Name": "MM Reloaded",
+      "Description": "MMHD with improved multi-language support and faithful textures (formerly MLE)",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
         "MMN64HD",
-        "MMN64HD (Multi-Language Edition 1080p)"
+        "MM Reloaded (0.5x)"
       ],
       "Archive": true,
-      "InstalledSize": 21401894573,
+      "InstalledSize": 21762802149,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
-          "FileName": "MMN64HD_MLE.7z.001",
-          "FileHash": "f4a35dd3be9e8e65c48f3a6d85669509",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v10.4.0/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "FileName": "mm-reloaded.7z.001",
+          "FileHash": "a210f1934d78b56d54195193787df137",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
-          "FileName": "MMN64HD_MLE.7z.002",
-          "FileHash": "0f9457be62b71819cdaa064ef845a836",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v10.4.0/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "FileName": "mm-reloaded.7z.002",
+          "FileHash": "a3d3ac0acdf2b10547a6ab969ee91867",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
-          "FileName": "MMN64HD_MLE.7z.003",
-          "FileHash": "d95f67c48edf0bc161c43d11a48065e5",
-          "FileSize": 424782050
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v10.4.0/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
+          "FileName": "mm-reloaded.7z.003",
+          "FileHash": "b2735d1deee359420ff7db9518679c06",
+          "FileSize": 550769175
         }
       ],
       "FallbackUrls": null,
@@ -480,29 +480,23 @@
       "Additions": null
     },
     {
-      "Name": "MMN64HD (Multi-Language Edition 1080p)",
-      "Description": "Majora's Mask HD with Multi-Language Support, downscaled for 1080p",
+      "Name": "MM Reloaded (0.5x)",
+      "Description": "MMHD with improved multi-language support and faithful textures (formerly MLE), downscaled to 50%",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "MMN64HD (Multi-Language Edition)",
+        "MM Reloaded",
         "MMN64HD"
       ],
       "Archive": true,
-      "InstalledSize": 2251907763,
+      "InstalledSize": 7938749157,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/mm-mobile.zip.001",
-          "FileName": "MMN64HD-mobile.zip.001",
-          "FileHash": "04b7034058387196d4cbb5c898800a30",
-          "FileSize": 2145386496
-        },
-        {
-          "Url": "https://github.com/GhostlyDark/MMHD-MLE/releases/download/2023-04-13/mm-mobile.zip.002",
-          "FileName": "MMN64HD-mobile.zip.002",
-          "FileHash": "9968381033d2519bb6cf6ff2a0fa1dc7",
-          "FileSize": 268128775
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v10.4.0/mm-reloaded-v10.4.0-gliden64-hts_0.5x.7z",
+          "FileName": "mm-reloaded_0.5x.7z",
+          "FileHash": "d6a815e163c54d48264cc8177c8cffec",
+          "FileSize": 1567329940
         }
       ],
       "FallbackUrls": null,
@@ -513,27 +507,27 @@
     },
     {
       "Name": "OoT Reloaded",
-      "Description": "Ocarina of Time UHD Texture Pack (HTS)",
+      "Description": "Ocarina of Time UHD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "OoT Reloaded (1080p)"
+        "OoT Reloaded (0.5x)"
       ],
       "Archive": true,
-      "InstalledSize": 23884568236,
+      "InstalledSize": 24195182933,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.3.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.4.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
           "FileName": "oot-reloaded.7z.001",
-          "FileHash": "258aee8679a62d5fd2e6fb843ce36f6e",
+          "FileHash": "96b61121e5860bd377eb7720fe348c03",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.3.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.4.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
           "FileName": "oot-reloaded.7z.002",
-          "FileHash": "fd5b7f06cc7448a063eb20b9cae07f17",
-          "FileSize": 1134326829
+          "FileHash": "97129bcda041514e34a420f1a18e8fbd",
+          "FileSize": 1123727074
         }
       ],
       "FallbackUrls": null,
@@ -543,28 +537,22 @@
       "Additions": null
     },
     {
-      "Name": "OoT Reloaded (1080p)",
-      "Description": "Ocarina of Time UHD Texture Pack (HTS), downscaled for 1080p",
+      "Name": "OoT Reloaded (0.5x)",
+      "Description": "Ocarina of Time UHD texture pack, downscaled to 50%",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
         "OoT Reloaded"
       ],
       "Archive": true,
-      "InstalledSize": 2449377553,
+      "InstalledSize": 10331815253,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.3.0/oot-mobile.zip.001",
-          "FileName": "oot-mobile.zip.001",
-          "FileHash": "4492ec00e3d8b15ae58f4c9a8e8551bf",
-          "FileSize": 2145386496
-        },
-        {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.3.0/oot-mobile.zip.002",
-          "FileName": "oot-mobile.zip.002",
-          "FileHash": "d1b7f3200c2ad0c658721d85053f401f",
-          "FileSize": 268128775
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.4.0/oot-reloaded-v10.4.0-gliden64-hts_0.5x.7z",
+          "FileName": "oot-reloaded_0.5x.7z",
+          "FileHash": "74830a50afac989995666a93e9ee9820",
+          "FileSize": 1561849673
         }
       ],
       "FallbackUrls": null,
@@ -575,39 +563,39 @@
     },
     {
       "Name": "OoT+MM Combo Reloaded",
-      "Description": "OoT Reloaded and MM N64HD MLE combined for OoTMM Combo Rando (ootmm.com) (HTS)",
+      "Description": "OoT Reloaded and MM Reloaded combined for OoT+MM Combo Rando (ootmm.com)",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "OoT+MM Combo Reloaded (1080p)"
+        "OoT+MM Combo Reloaded (0.5x)"
       ],
       "Archive": true,
-      "InstalledSize": 39085376808,
+      "InstalledSize": 39770268737,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm.7z.001",
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES.7z.001",
           "FileName": "oot-mm.7z.001",
-          "FileHash": "173383a8fbb18bacbc4f0736e0997288",
+          "FileHash": "cb955ed2e51782965cf3c73be26ea8e0",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm.7z.002",
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES.7z.002",
           "FileName": "oot-mm.7z.002",
-          "FileHash": "a1f8f60c32cb0a9c56cf486c475fb425",
+          "FileHash": "2f24a1ee4803361204aebe6fea6cbd60",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm.7z.003",
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES.7z.003",
           "FileName": "oot-mm.7z.003",
-          "FileHash": "91885951f16e71530c6065d3f21b1a99",
+          "FileHash": "56f7c792a7dc3af2d2b9bdde807e12de",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm.7z.004",
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES.7z.004",
           "FileName": "oot-mm.7z.004",
-          "FileHash": "f5bf236c7d09e0bc4191e67dfbc7dfde",
-          "FileSize": 694723421
+          "FileHash": "aa681e479fac721ac28a94b7ecc79176",
+          "FileSize": 801772029
         }
       ],
       "FallbackUrls": null,
@@ -617,28 +605,28 @@
       "Additions": null
     },
     {
-      "Name": "OoT+MM Combo Reloaded (1080p)",
-      "Description": "OoT Reloaded and MM N64HD MLE combined for OoTMM Combo Rando (ootmm.com) (HTS 1080p)",
+      "Name": "OoT+MM Combo Reloaded (0.5x)",
+      "Description": "OoT Reloaded and MM Reloaded combined for OoT+MM Combo Rando (ootmm.com), downscaled to 50%",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
         "OoT+MM Combo Reloaded"
       ],
       "Archive": true,
-      "InstalledSize": 4137618364,
+      "InstalledSize": 15522330689,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm-mobile.zip.001",
-          "FileName": "oot-mm-mobile.zip.001",
-          "FileHash": "6368a7b872f222585d6818b9361d0669",
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES_0.5x.7z.001",
+          "FileName": "oot-mm_0.5x.7z.001",
+          "FileHash": "463470f02947439739af43316449e934",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/2023-04-13/oot-mm-mobile.zip.002",
-          "FileName": "oot-mm-mobile.zip.002",
-          "FileHash": "1777cdae8cded710d3603c6f28576a1a",
-          "FileSize": 1933077428
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES_0.5x.7z.002",
+          "FileName": "oot-mm_0.5x.7z.002",
+          "FileHash": "5d825b4cf64b8427ff6d60fa05957066",
+          "FileSize": 661933960
         }
       ],
       "FallbackUrls": null,
@@ -649,7 +637,7 @@
     },
     {
       "Name": "RE2 Reloaded",
-      "Description": "RE2 Reloaded HD Texture Pack (HTS)",
+      "Description": "RE2 Reloaded HD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -686,7 +674,7 @@
     },
     {
       "Name": "RE2 Reloaded (1080p)",
-      "Description": "RE2 Reloaded HD Texture Pack (HTS), downscaled for 1080p",
+      "Description": "RE2 Reloaded HD texture pack, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -717,7 +705,7 @@
     },
     {
       "Name": "SM64 Reloaded",
-      "Description": "Super Mario 64 UHD Texture Pack (HTS)",
+      "Description": "Super Mario 64 UHD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -742,7 +730,7 @@
     },
     {
       "Name": "SM64 Reloaded (1080p)",
-      "Description": "Super Mario 64 UHD Texture Pack (HTS), downscaled for 1080p",
+      "Description": "Super Mario 64 UHD texture pack, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -767,7 +755,7 @@
     },
     {
       "Name": "Mario Kart 64 HD",
-      "Description": "Mario Kart 64 HD Texture Pack (HTS)",
+      "Description": "Mario Kart 64 HD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -792,7 +780,7 @@
     },
     {
       "Name": "Mario Kart 64 HD (1080p)",
-      "Description": "Mario Kart 64 HD Texture Pack (HTS), downscaled for 1080p",
+      "Description": "Mario Kart 64 HD texture pack, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -817,7 +805,7 @@
     },
     {
       "Name": "Super Smash Bros. HD",
-      "Description": "Super Smash Bros. HD Texture Pack (HTS)",
+      "Description": "Super Smash Bros. HD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": null,
