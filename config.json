@@ -409,8 +409,8 @@
       "Enabled": true,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "MM Reloaded",
-        "MM Reloaded (0.5x)"
+        "MM Reloaded 4K",
+        "MM Reloaded HD"
       ],
       "Archive": true,
       "InstalledSize": 19104123507,
@@ -442,13 +442,13 @@
       "Additions": null
     },
     {
-      "Name": "MM Reloaded",
+      "Name": "MM Reloaded 4K",
       "Description": "MMHD with improved multi-language support and faithful textures (formerly MLE)",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
         "MMN64HD",
-        "MM Reloaded (0.5x)"
+        "MM Reloaded HD"
       ],
       "Archive": true,
       "InstalledSize": 21762802149,
@@ -480,12 +480,12 @@
       "Additions": null
     },
     {
-      "Name": "MM Reloaded (0.5x)",
+      "Name": "MM Reloaded HD",
       "Description": "MMHD with improved multi-language support and faithful textures (formerly MLE), downscaled to 50%",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "MM Reloaded",
+        "MM Reloaded 4K",
         "MMN64HD"
       ],
       "Archive": true,
@@ -506,12 +506,12 @@
       "Additions": null
     },
     {
-      "Name": "OoT Reloaded",
+      "Name": "OoT Reloaded 4K",
       "Description": "Ocarina of Time UHD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "OoT Reloaded (0.5x)"
+        "OoT Reloaded HD "
       ],
       "Archive": true,
       "InstalledSize": 24195182933,
@@ -537,12 +537,12 @@
       "Additions": null
     },
     {
-      "Name": "OoT Reloaded (0.5x)",
+      "Name": "OoT Reloaded HD",
       "Description": "Ocarina of Time UHD texture pack, downscaled to 50%",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "OoT Reloaded"
+        "OoT Reloaded 4K"
       ],
       "Archive": true,
       "InstalledSize": 10331815253,
@@ -562,12 +562,12 @@
       "Additions": null
     },
     {
-      "Name": "OoT+MM Combo Reloaded",
+      "Name": "OoT+MM Combo Reloaded 4K",
       "Description": "OoT Reloaded and MM Reloaded combined for OoT+MM Combo Rando (ootmm.com)",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "OoT+MM Combo Reloaded (0.5x)"
+        "OoT+MM Combo Reloaded HD"
       ],
       "Archive": true,
       "InstalledSize": 39770268737,
@@ -605,12 +605,12 @@
       "Additions": null
     },
     {
-      "Name": "OoT+MM Combo Reloaded (0.5x)",
+      "Name": "OoT+MM Combo Reloaded HD",
       "Description": "OoT Reloaded and MM Reloaded combined for OoT+MM Combo Rando (ootmm.com), downscaled to 50%",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "OoT+MM Combo Reloaded"
+        "OoT+MM Combo Reloaded 4K"
       ],
       "Archive": true,
       "InstalledSize": 15522330689,
@@ -636,12 +636,12 @@
       "Additions": null
     },
     {
-      "Name": "RE2 Reloaded",
+      "Name": "RE2 Reloaded 4K",
       "Description": "RE2 Reloaded HD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "RE2 Reloaded (1080p)"
+        "RE2 Reloaded HD"
       ],
       "Archive": true,
       "InstalledSize": 16782144616,
@@ -673,12 +673,12 @@
       "Additions": null
     },
     {
-      "Name": "RE2 Reloaded (1080p)",
+      "Name": "RE2 Reloaded HD",
       "Description": "RE2 Reloaded HD texture pack, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "RE2 Reloaded"
+        "RE2 Reloaded 4K"
       ],
       "Archive": true,
       "InstalledSize": 2395966429,
@@ -704,12 +704,12 @@
       "Additions": null
     },
     {
-      "Name": "SM64 Reloaded",
+      "Name": "SM64 Reloaded 4K",
       "Description": "Super Mario 64 UHD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "SM64 Reloaded (1080p)"
+        "SM64 Reloaded HD"
       ],
       "Archive": true,
       "InstalledSize": 4839016250,
@@ -729,12 +729,12 @@
       "Additions": null
     },
     {
-      "Name": "SM64 Reloaded (1080p)",
+      "Name": "SM64 Reloaded HD",
       "Description": "Super Mario 64 UHD texture pack, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "SM64 Reloaded"
+        "SM64 Reloaded 4K"
       ],
       "Archive": true,
       "InstalledSize": 527908025,
@@ -759,17 +759,17 @@
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "Mario Kart 64 HD (1080p)"
+        "Mario Kart 64 HD (Performance)"
       ],
       "Archive": true,
-      "InstalledSize": 11250643714,
+      "InstalledSize": 11258709286,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/AndratVA/Mario-Kart-64-HD/releases/download/2023-03-11/mk64-hd--2023-03-11--gliden64-uhts.7z",
+          "Url": "https://github.com/GhostlyDark/MK64-HD/releases/download/2023-10-28/mk64-hd--2023-10-28-gliden64-hts-4k.7z",
           "FileName": "MK64-HD.7z",
-          "FileHash": "228e5656afa8b9d5b4a38c2b8d8cd252",
-          "FileSize": 543285770
+          "FileHash": "ee45ba833fdbf3945993f94bc19b903c",
+          "FileSize": 546210491
         }
       ],
       "FallbackUrls": null,
@@ -779,7 +779,7 @@
       "Additions": null
     },
     {
-      "Name": "Mario Kart 64 HD (1080p)",
+      "Name": "Mario Kart 64 HD (Performance)",
       "Description": "Mario Kart 64 HD texture pack, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
@@ -787,14 +787,14 @@
         "Mario Kart 64 HD"
       ],
       "Archive": true,
-      "InstalledSize": 4217582338,
+      "InstalledSize": 3028697446,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/AndratVA/Mario-Kart-64-HD/releases/download/2023-03-11/mk64-hd--2023-03-11--gliden64-uhts-1080p.7z",
+          "Url": "https://github.com/GhostlyDark/MK64-HD/releases/download/2023-10-28/mk64-hd--2023-10-28-gliden64-hts-hd.7z",
           "FileName": "MK64-HD-Performance.7z",
-          "FileHash": "6db6a2eefceba21c456a5449785e4f94",
-          "FileSize": 273381449
+          "FileHash": "0f43a4dbca67d77c7d7b63802198c4c0",
+          "FileSize": 214908923
         }
       ],
       "FallbackUrls": null,
