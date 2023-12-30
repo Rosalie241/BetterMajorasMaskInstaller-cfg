@@ -354,7 +354,16 @@
           "frameBufferEmulation\\overscanNtscTop=9",
           "frameBufferEmulation\\overscanNtscLeft=10",
           "frameBufferEmulation\\overscanNtscRight=10",
-          "frameBufferEmulation\\overscanNtscBottom=11"
+          "frameBufferEmulation\\overscanNtscBottom=11",
+          "",
+          "[TUROK%203-%20SHADOW%20OF%20O]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscLeft=4",
+          "frameBufferEmulation\\overscanNtscRight=4",
+          "frameBufferEmulation\\overscanNtscBottom=3"
         ],
         "Config\\Cheats\\The Legend of Zelda - Majora's Mask (U).cht": [
           "",
@@ -823,6 +832,29 @@
       "FallbackUrls": null,
       "Files": {
         "SMASH BROTHERS_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SMASH BROTHERS_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "Turok 3 Reloaded",
+      "Description": "Turok 3: Shadow of Oblivion HD texture pack",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 2543283817,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/Turok3-Reloaded/releases/download/v1.0.0/turok3-reloaded-v1.0.0-hts.7z",
+          "FileName": "Turok3-Reloaded.7z",
+          "FileHash": "4eefc5e95b0fe4667a81eaf88a03c3e5",
+          "FileSize": 334161249
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "Turok 3- Shadow of O_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Turok 3- Shadow of O_HIRESTEXTURES.hts"
       },
       "Additions": null
     }
