@@ -842,14 +842,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 2543283817,
+      "InstalledSize": 2543546117,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/Turok3-Reloaded/releases/download/v1.0.0/turok3-reloaded-v1.0.0-hts.7z",
+          "Url": "https://github.com/GhostlyDark/Turok3-Reloaded/releases/download/v1.0.1/turok3-reloaded-v1.0.1-hts.7z",
           "FileName": "Turok3-Reloaded.7z",
-          "FileHash": "4eefc5e95b0fe4667a81eaf88a03c3e5",
-          "FileSize": 334161249
+          "FileHash": "abf1cc6e976ca88e78a70001b279152c",
+          "FileSize": 334176548
         }
       ],
       "FallbackUrls": null,
