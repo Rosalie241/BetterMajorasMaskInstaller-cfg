@@ -13,14 +13,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 7819591,
+      "InstalledSize": 7776647,
       "ExtractAll": true,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/project64/releases/download/v4.0.0-5751/Project64.v4.0.0-5751.noplugins.zip",
+          "Url": "https://github.com/GhostlyDark/project64/releases/download/2025-01-06/Project64.v4.0.0-5751.noplugins.zip",
           "FileName": "Project64.v4.0.0-5751.noplugins.zip",
-          "FileHash": "8e9fe0ac4949e98f3f24745f72b26c07",
-          "FileSize": 3438658
+          "FileHash": "2bec91de136ac48d62d4a52696c11518",
+          "FileSize": 3412655
         }
       ],
       "FallbackUrls": null,
@@ -64,19 +64,19 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 186368,
+      "InstalledSize": 1033013,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Azimer/AziAudio/files/1591596/AziAudio.v0.70.WIP10.zip",
+          "Url": "https://github.com/GhostlyDark/AziAudio/releases/download/2025-01-06/AziAudio_x86.zip",
           "FileName": "AziAudio.zip",
-          "FileHash": "aa857b8ad9f4f1c310d95b464c1617dd",
-          "FileSize": 96221
+          "FileHash": "ecfb16184a59a1f0d097f2c1156fb781",
+          "FileSize": 332251
         }
       ],
       "FallbackUrls": null,
       "Files": {
-        "AziAudio v0.70 WIP10.dll": "Plugin\\Audio\\AziAudio v0.70 WIP10.dll"
+        "AziAudio.dll": "Plugin\\Audio\\AziAudio.dll"
       },
       "Additions": null
     },
@@ -87,14 +87,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 11054661,
+      "InstalledSize": 11055173,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2024-11-10/GLideN64-da8b62b-Windows-Project64-Qt-x86.zip",
+          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2025-01-06/GLideN64-b964aaf-Windows-Project64-Qt-x86.zip",
           "FileName": "GLideN64-594263d-Windows-Project64-Qt-x86.zip",
-          "FileHash": "c39da76a736b4c916dd0a842ac6da859",
-          "FileSize": 5728632 
+          "FileHash": "52fa13189fb23e394b156bdc35b4eb52",
+          "FileSize": 5728552
         }
       ],
       "FallbackUrls": null,
@@ -111,14 +111,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 475136,
+      "InstalledSize": 382976,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/angrylion-rdp-plus/releases/download/v1.6-24/project64-angrylion-plus-x86.zip",
+          "Url": "https://github.com/GhostlyDark/angrylion-rdp-plus/releases/download/2025-01-06/project64-angrylion-plus-x86.zip",
           "FileName": "angrylion-plus.dll",
-          "FileHash": "618242fa87dcf995d97b0dabc46f92a6",
-          "FileSize": 223017
+          "FileHash": "8fe4484ceea56d991ee105b7c4fc7cde",
+          "FileSize": 169573
         }
       ],
       "FallbackUrls": null,
@@ -202,15 +202,15 @@
       "Enabled": true,
       "ReadOnly": false,
       "DisableOnSelected": null,
-      "Archive": false,
-      "InstalledSize": 2573961,
+      "Archive": true,
+      "InstalledSize": 791040,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/parallel-rsp/releases/download/1.0/parallel-rsp.dll",
-          "FileName": "parallel-rsp.dll",
-          "FileHash": "b697cebde024ebb0ebe32f22b51839f4",
-          "FileSize": 2573961
+          "Url": "https://github.com/GhostlyDark/parallel-rsp/releases/download/0.6/parallel-rsp.zip",
+          "FileName": "parallel-rsp.zip",
+          "FileHash": "706cd6c6f91204b98c9d2d7f4daeea7f",
+          "FileSize": 248940
         }
       ],
       "FallbackUrls": null,
@@ -253,10 +253,10 @@
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-17/configs.zip",
+          "Url": "https://github.com/Rosalie241/BetterMajorasMaskInstaller-cfg/releases/download/configs-18/configs.zip",
           "FileName": "configs.zip",
-          "FileHash": "ba8f3be766f4103dcd7ec50a47de3696",
-          "FileSize": 5626 
+          "FileHash": "a3a98d65ad5a63a73b9a407ce3fd514c",
+          "FileSize": 5612 
         }
       ],
       "FallbackUrls": null,
