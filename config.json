@@ -220,6 +220,29 @@
       "Additions": null
     },
     {
+      "Name": "Wii U Gamecube Adapter Input Plugin",
+      "Description": "Proof of concept Wii U Gamecube adapter plugin for Project64.",
+      "Enabled": true,
+      "ReadOnly": false,
+      "DisableOnSelected": null,
+      "Archive": true,
+      "InstalledSize": 587841,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/mupen64plus-input-gcn/releases/download/2025-01-06/pj64-wiiu-gcn.zip",
+          "FileName": "pj64-wiiu-gcn.zip",
+          "FileHash": "8f6eee2ca870ca6e672b9a70cf6056ed",
+          "FileSize": 238577
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "pj64-wiiu-gcn.dll": "Plugin\\Input\\pj64-wiiu-gcn.dll"
+      },
+      "Additions": null
+    },
+    {
       "Name": "Configuration Tool for RSP Plugin (spconfig)",
       "Description": "Configuration UI for the RSP plugin.",
       "Enabled": true,
