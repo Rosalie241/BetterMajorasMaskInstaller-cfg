@@ -744,14 +744,14 @@
         "SM64 Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 4839016250,
+      "InstalledSize": 4881888087,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.4.0/sm64-reloaded-v2.4.0-gliden64-uhts.7z",
-          "FileName": "SM64-Reloaded.7z",
-          "FileHash": "caa670d538f8cb331478caf65ada094b",
-          "FileSize": 908506846
+          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.5.0/sm64-reloaded-v2.5.0-gliden64-hts-4k.7z",
+          "FileName": "SM64-Reloaded-4K.7z",
+          "FileHash": "e40de24533bb9ea4e5cb628a4cb387ab",
+          "FileSize": 913104322
         }
       ],
       "FallbackUrls": null,
@@ -769,14 +769,14 @@
         "SM64 Reloaded 4K"
       ],
       "Archive": true,
-      "InstalledSize": 527908025,
+      "InstalledSize": 1661092695,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.4.0/sm64-reloaded-v2.4.0-gliden64-chts.zip",
-          "FileName": "SM64-1080p.zip",
-          "FileHash": "c1b8ff2e3a23c08742fee6c0856e9114",
-          "FileSize": 519077687
+          "Url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.5.0/sm64-reloaded-v2.5.0-gliden64-hts-hd.7z",
+          "FileName": "SM64-Reloaded-HD.7z",
+          "FileHash": "eb2a847b11441532f4e8c3b6e4bdbbee",
+          "FileSize": 317481294
         }
       ],
       "FallbackUrls": null,
