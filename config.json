@@ -836,20 +836,20 @@
       "Additions": null
     },
     {
-      "Name": "Super Smash Bros. HD",
+      "Name": "SSB Reloaded",
       "Description": "Super Smash Bros. HD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 79342237,
+      "InstalledSize": 1189363563,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/SSB-HD/releases/download/v1.1.2/ssb-hd-v1.1.2-gliden64-hts.zip",
-          "FileName": "SSB-HD.zip",
-          "FileHash": "c50b54126ce7a1b7c8ca5b143006b1cb",
-          "FileSize": 76029855
+          "Url": "https://github.com/GhostlyDark/SSB-Reloaded/releases/download/v2.0.0/ssb-reloaded-v2.0.0-gliden64-hts.7z",
+          "FileName": "SSB-Reloaded.7z",
+          "FileHash": "f23c704e3b0db98dcf239f58fe19e5e2",
+          "FileSize": 163349384
         }
       ],
       "FallbackUrls": null,
