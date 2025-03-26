@@ -676,26 +676,20 @@
         "RE2 Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 16782144616,
+      "InstalledSize": 16647796289,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.1/Resident.Evil.II_HIRESTEXTURES.7z.001",
-          "FileName": "re2-reloaded.7z.001",
-          "FileHash": "8e5016506853f0c7c8da090cb4cb7bda",
+          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v2.0.0/re2-reloaded-v2.0.0-hts-4k.7z.001",
+          "FileName": "re2-reloaded-4k.7z.001",
+          "FileHash": "4e08e6dd1c75f6a04e7cde5793c4cc98",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.1/Resident.Evil.II_HIRESTEXTURES.7z.002",
-          "FileName": "re2-reloaded.7z.002",
-          "FileHash": "1dfafb023c44494b8209a6ddef2cc676",
-          "FileSize": 2145386496
-        },
-        {
-          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.1/Resident.Evil.II_HIRESTEXTURES.7z.003",
-          "FileName": "re2-reloaded.7z.003",
-          "FileHash": "50cd286eb1bf19ff94c234c49c7a99d3",
-          "FileSize": 950356936
+          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v2.0.0/re2-reloaded-v2.0.0-hts-4k.7z.002",
+          "FileName": "re2-reloaded-4k.7z.002",
+          "FileHash": "0d776e1758de777f71b1e8e16d6d7ff7",
+          "FileSize": 305372377
         }
       ],
       "FallbackUrls": null,
@@ -713,20 +707,14 @@
         "RE2 Reloaded 4K"
       ],
       "Archive": true,
-      "InstalledSize": 2395966429,
+      "InstalledSize": 5210125889,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.1/re2-mobile.zip.001",
-          "FileName": "re2-mobile.zip.001",
-          "FileHash": "861ed91025cf3f88c7b8f5e1dbe66fee",
-          "FileSize": 2145386496
-        },
-        {
-          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v1.1.1/re2-mobile.zip.002",
-          "FileName": "re2-mobile.zip.002",
-          "FileHash": "b3fb174cfdbfc5e3ad190c73aa59d3dd",
-          "FileSize": 234433205
+          "Url": "https://github.com/GhostlyDark/RE2-Reloaded/releases/download/v2.0.0/re2-reloaded-v2.0.0-hts-hd.7z",
+          "FileName": "re2-reloaded-hd.7z",
+          "FileHash": "b6eb569f8f5780eab339bdf12ac70a9b",
+          "FileSize": 933691068
         }
       ],
       "FallbackUrls": null,
