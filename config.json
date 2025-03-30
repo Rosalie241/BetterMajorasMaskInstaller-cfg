@@ -483,26 +483,26 @@
         "MM Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 21762802149,
+      "InstalledSize": 21952441828,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v10.4.0/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.0/mm-reloaded-v11.0.0-gliden64-hts-4k.7z.001",
           "FileName": "mm-reloaded.7z.001",
-          "FileHash": "a210f1934d78b56d54195193787df137",
+          "FileHash": "052ee9842b34fffd022c632bcfca4423",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v10.4.0/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.0/mm-reloaded-v11.0.0-gliden64-hts-4k.7z.002",
           "FileName": "mm-reloaded.7z.002",
-          "FileHash": "a3d3ac0acdf2b10547a6ab969ee91867",
+          "FileHash": "d6c4e06106e77855c24eb7323c34f1e3",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v10.4.0/ZELDA.MAJORA.S.MASK_HIRESTEXTURES.7z.003",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.0/mm-reloaded-v11.0.0-gliden64-hts-4k.7z.003",
           "FileName": "mm-reloaded.7z.003",
-          "FileHash": "b2735d1deee359420ff7db9518679c06",
-          "FileSize": 550769175
+          "FileHash": "9d863b88edbdc98df33da6a2d7007099",
+          "FileSize": 584311831
         }
       ],
       "FallbackUrls": null,
@@ -513,7 +513,7 @@
     },
     {
       "Name": "MM Reloaded HD",
-      "Description": "MMHD with improved multi-language support and faithful textures (formerly MLE), downscaled to 50%",
+      "Description": "MMHD with improved multi-language support and faithful textures (formerly MLE), downscaled to 8x",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
@@ -521,14 +521,14 @@
         "MMN64HD"
       ],
       "Archive": true,
-      "InstalledSize": 7938749157,
+      "InstalledSize": 3913387492,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v10.4.0/mm-reloaded-v10.4.0-gliden64-hts_0.5x.7z",
-          "FileName": "mm-reloaded_0.5x.7z",
-          "FileHash": "d6a815e163c54d48264cc8177c8cffec",
-          "FileSize": 1567329940
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.0/mm-reloaded-v11.0.0-gliden64-hts-hd.7z",
+          "FileName": "mm-reloaded-hd.7z",
+          "FileHash": "258089359904a3bc1318d8cfe55930ad",
+          "FileSize": 691579888
         }
       ],
       "FallbackUrls": null,
