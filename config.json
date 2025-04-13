@@ -602,32 +602,32 @@
         "OoT+MM Combo Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 39770268737,
+      "InstalledSize": 47803814209,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES.7z.001",
-          "FileName": "oot-mm.7z.001",
-          "FileHash": "cb955ed2e51782965cf3c73be26ea8e0",
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v11.0.0/oot-mm-combo-reloaded-v11.0.0-hts-4k.7z.001",
+          "FileName": "oot-mm-combo-reloaded-4k.7z.001",
+          "FileHash": "27be48a065d767443af0db42741d349f",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES.7z.002",
-          "FileName": "oot-mm.7z.002",
-          "FileHash": "2f24a1ee4803361204aebe6fea6cbd60",
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v11.0.0/oot-mm-combo-reloaded-v11.0.0-hts-4k.7z.002",
+          "FileName": "oot-mm-combo-reloaded-4k.7z.002",
+          "FileHash": "d3cb6e3cbb467bd819a15252a825b3f3",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES.7z.003",
-          "FileName": "oot-mm.7z.003",
-          "FileHash": "56f7c792a7dc3af2d2b9bdde807e12de",
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v11.0.0/oot-mm-combo-reloaded-v11.0.0-hts-4k.7z.003",
+          "FileName": "oot-mm-combo-reloaded-4k.7z.003",
+          "FileHash": "2fb239d791e82dd21faa45141d3d817a",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES.7z.004",
-          "FileName": "oot-mm.7z.004",
-          "FileHash": "aa681e479fac721ac28a94b7ecc79176",
-          "FileSize": 801772029
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v11.0.0/oot-mm-combo-reloaded-v11.0.0-hts-4k.7z.004",
+          "FileName": "oot-mm-combo-reloaded-4k.7z.004",
+          "FileHash": "232a7b8c209b030f0e938dc77808f2f6",
+          "FileSize": 1916245017
         }
       ],
       "FallbackUrls": null,
@@ -638,27 +638,21 @@
     },
     {
       "Name": "OoT+MM Combo Reloaded HD",
-      "Description": "OoT Reloaded and MM Reloaded combined for OoT+MM Combo Rando (ootmm.com), downscaled to 50%",
+      "Description": "OoT Reloaded and MM Reloaded combined for OoT+MM Combo Rando (ootmm.com), downscaled to 8x",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
         "OoT+MM Combo Reloaded 4K"
       ],
       "Archive": true,
-      "InstalledSize": 15522330689,
+      "InstalledSize": 12516624193,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES_0.5x.7z.001",
-          "FileName": "oot-mm_0.5x.7z.001",
-          "FileHash": "463470f02947439739af43316449e934",
-          "FileSize": 2145386496
-        },
-        {
-          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v10.4.0/OOT+MM.COMBO_HIRESTEXTURES_0.5x.7z.002",
-          "FileName": "oot-mm_0.5x.7z.002",
-          "FileHash": "5d825b4cf64b8427ff6d60fa05957066",
-          "FileSize": 661933960
+          "Url": "https://github.com/GhostlyDark/OoT-MM-Combo-Reloaded/releases/download/v11.0.0/oot-mm-combo-reloaded-v11.0.0-hts-hd.7z",
+          "FileName": "oot-mm-combo-reloaded-hd.7z",
+          "FileHash": "b3873d3b356a08fbc929d5c136977ad6",
+          "FileSize": 1912978104
         }
       ],
       "FallbackUrls": null,
