@@ -546,20 +546,20 @@
         "OoT Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 24195182933,
+      "InstalledSize": 30452580280,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.4.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.001",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v11.0.0/oot-reloaded-v11.0.0-gliden64-hts-4k.7z.001",
           "FileName": "oot-reloaded.7z.001",
-          "FileHash": "96b61121e5860bd377eb7720fe348c03",
+          "FileHash": "884a0169b8256415a74dfcdb3ffc2375",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.4.0/THE.LEGEND.OF.ZELDA_HIRESTEXTURES.7z.002",
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v11.0.0/oot-reloaded-v11.0.0-gliden64-hts-4k.7z.002",
           "FileName": "oot-reloaded.7z.002",
-          "FileHash": "97129bcda041514e34a420f1a18e8fbd",
-          "FileSize": 1123727074
+          "FileHash": "3694b5db1cbb06d5981b9b88476a6b29",
+          "FileSize": 1808202417
         }
       ],
       "FallbackUrls": null,
@@ -570,21 +570,21 @@
     },
     {
       "Name": "OoT Reloaded HD",
-      "Description": "Ocarina of Time UHD texture pack, downscaled to 50%",
+      "Description": "Ocarina of Time UHD texture pack, downscaled to 8x",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
         "OoT Reloaded 4K"
       ],
       "Archive": true,
-      "InstalledSize": 10331815253,
+      "InstalledSize": 9456739768,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v10.4.0/oot-reloaded-v10.4.0-gliden64-hts_0.5x.7z",
-          "FileName": "oot-reloaded_0.5x.7z",
-          "FileHash": "74830a50afac989995666a93e9ee9820",
-          "FileSize": 1561849673
+          "Url": "https://github.com/GhostlyDark/OoT-Reloaded/releases/download/v11.0.0/oot-reloaded-v11.0.0-gliden64-hts-hd.7z",
+          "FileName": "oot-reloaded-hd.7z",
+          "FileHash": "b84e3c28561633cee16c7fc230e47e50",
+          "FileSize": 1313099810
         }
       ],
       "FallbackUrls": null,
