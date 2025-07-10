@@ -768,22 +768,22 @@
       "Additions": null
     },
     {
-      "Name": "Mario Kart 64 HD",
+      "Name": "MK64 Reloaded 4K",
       "Description": "Mario Kart 64 HD texture pack",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "Mario Kart 64 HD (Performance)"
+        "MK64 Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 11239997773,
+      "InstalledSize": 10122328830,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MK64-HD/releases/download/2025-02-20/mk64-hd--2025-02-20--gliden64-hts-4k.7z",
-          "FileName": "MK64-HD.7z",
-          "FileHash": "8fb86e4b85a00f841e5370cc8530141c",
-          "FileSize": 545019356
+          "Url": "https://github.com/GhostlyDark/MK64-Reloaded/releases/download/v2025.07.11/mk64-reloaded-v2025.07.11-gliden64-hts-4k.7z",
+          "FileName": "MK64-Reloaded-4K.7z",
+          "FileHash": "1e24cc2f15d82cdf18de104c2a9db7f5",
+          "FileSize": 543807083
         }
       ],
       "FallbackUrls": null,
@@ -793,22 +793,22 @@
       "Additions": null
     },
     {
-      "Name": "Mario Kart 64 HD (Performance)",
+      "Name": "MMK64 Reloaded HD",
       "Description": "Mario Kart 64 HD texture pack, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
-        "Mario Kart 64 HD"
+        "MK64 Reloaded 4K"
       ],
       "Archive": true,
-      "InstalledSize": 3131096461,
+      "InstalledSize": 3855809278,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MK64-HD/releases/download/2025-02-20/mk64-hd--2025-02-20--gliden64-hts-hd.7z",
-          "FileName": "MK64-HD-Performance.7z",
-          "FileHash": "2756af055693f2b7315a00fe50db21b2",
-          "FileSize": 216827919
+          "Url": "https://github.com/GhostlyDark/MK64-Reloaded/releases/download/v2025.07.11/mk64-reloaded-v2025.07.11-gliden64-hts-hd.7z",
+          "FileName": "MK64-Reloaded-HD.7z",
+          "FileHash": "02d35575e985bd2cb5da6e02e7f8c41a",
+          "FileSize": 237734121
         }
       ],
       "FallbackUrls": null,
