@@ -776,14 +776,14 @@
         "MK64 Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 10122328830,
+      "InstalledSize": 11962335969,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MK64-Reloaded/releases/download/v2025.07.11/mk64-reloaded-v2025.07.11-gliden64-hts-4k.7z",
+          "Url": "https://github.com/GhostlyDark/MK64-Reloaded/releases/download/v2025.07.20/mk64-reloaded-v2025.07.20-gliden64-hts-4k.7z",
           "FileName": "MK64-Reloaded-4K.7z",
-          "FileHash": "1e24cc2f15d82cdf18de104c2a9db7f5",
-          "FileSize": 543807083
+          "FileHash": "be46a22ec593780472eb9c64839fc136",
+          "FileSize": 979432697
         }
       ],
       "FallbackUrls": null,
@@ -801,14 +801,14 @@
         "MK64 Reloaded 4K"
       ],
       "Archive": true,
-      "InstalledSize": 3855809278,
+      "InstalledSize": 4770841313,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MK64-Reloaded/releases/download/v2025.07.11/mk64-reloaded-v2025.07.11-gliden64-hts-hd.7z",
+          "Url": "https://github.com/GhostlyDark/MK64-Reloaded/releases/download/v2025.07.20/mk64-reloaded-v2025.07.20-gliden64-hts-hd.7z",
           "FileName": "MK64-Reloaded-HD.7z",
-          "FileHash": "02d35575e985bd2cb5da6e02e7f8c41a",
-          "FileSize": 237734121
+          "FileHash": "8f5685b41f72712e87b8747455a38d83",
+          "FileSize": 448367317
         }
       ],
       "FallbackUrls": null,
