@@ -386,6 +386,24 @@
           "frameBufferEmulation\\enableOverscan=1",
           "frameBufferEmulation\\overscanNtscLeft=4",
           "frameBufferEmulation\\overscanNtscRight=4",
+          "frameBufferEmulation\\overscanNtscBottom=3",
+          "",
+          "[BANJO-KAZOOIE]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscLeft=4",
+          "frameBufferEmulation\\overscanNtscRight=4",
+          "frameBufferEmulation\\overscanNtscBottom=3",
+          "",
+          "[GOLDENEYE]",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscLeft=4",
+          "frameBufferEmulation\\overscanNtscRight=4",
           "frameBufferEmulation\\overscanNtscBottom=3"
         ],
         "Config\\Cheats\\The Legend of Zelda - Majora's Mask (U).cht": [
@@ -662,6 +680,106 @@
       "Additions": null
     },
     {
+      "Name": "BK Reloaded 4K",
+      "Description": "BK Reloaded HD texture pack",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "BK Reloaded HD"
+      ],
+      "Archive": true,
+      "InstalledSize": 301353154,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/BK-Reloaded/releases/download/v2025-12-30/bk-reloaded-v0.1.0-gliden64-hts-4k.7z",
+          "FileName": "bk-reloaded-4k.7z",
+          "FileHash": "173b51993be7112eac2e972e78dca844",
+          "FileSize": 26550169
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "Banjo-Kazooie_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Banjo-Kazooie_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "BK Reloaded HD",
+      "Description": "BK Reloaded HD texture pack, downscaled for 1080p",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "BK Reloaded 4K"
+      ],
+      "Archive": true,
+      "InstalledSize": 108779458,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/BK-Reloaded/releases/download/v2025-12-30/bk-reloaded-v0.1.0-gliden64-hts-hd.7z",
+          "FileName": "bk-reloaded-hd.7z",
+          "FileHash": "5352b2bc9b7242a454430d18b26f89c3",
+          "FileSize": 12713469
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "Banjo-Kazooie_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Banjo-Kazooie_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "GoldenEye 007 4K",
+      "Description": "GoldenEye 007 HD texture pack by intermissionfb",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "GoldenEye 007 HD"
+      ],
+      "Archive": true,
+      "InstalledSize": 8825475238,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/GoldenEye-007-HD/releases/download/v2025-12-30/ge007-hd-v2025.12.30-gliden64-hts-4k.7z",
+          "FileName": "ge007-4k.7z",
+          "FileHash": "fd51ba4ea17174043f09e051b232e281",
+          "FileSize": 1275524677
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "Banjo-GOLDENEYE_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Banjo-GOLDENEYE_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "GoldenEye 007 HD",
+      "Description": "GoldenEye 007 HD texture pack by intermissionfb, downscaled for 1080p",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "GoldenEye 007 4K"
+      ],
+      "Archive": true,
+      "InstalledSize": 593209746,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/GoldenEye-007-HD/releases/download/v2025-12-30/ge007-hd-v2025.12.30-gliden64-hts-hd.7z",
+          "FileName": "ge007-hd.7z",
+          "FileHash": "907daf24c3b92313d357f5da8cd60b34",
+          "FileSize": 80385770
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "GOLDENEYE_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\GOLDENEYE_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
       "Name": "RE2 Reloaded 4K",
       "Description": "RE2 Reloaded HD texture pack",
       "Enabled": false,
@@ -793,7 +911,7 @@
       "Additions": null
     },
     {
-      "Name": "MMK64 Reloaded HD",
+      "Name": "MK64 Reloaded HD",
       "Description": "Mario Kart 64 HD texture pack, downscaled for 1080p",
       "Enabled": false,
       "ReadOnly": false,
