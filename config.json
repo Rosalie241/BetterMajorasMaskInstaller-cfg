@@ -87,14 +87,14 @@
       "ReadOnly": true,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 11074117,
+      "InstalledSize": 11077006,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2025-03-30/GLideN64-4d027cb-Windows-Project64-Qt-x86.zip",
-          "FileName": "GLideN64-4d027cb-Windows-Project64-Qt-x86.zip",
-          "FileHash": "31c0210ed4a1ce52cc44cd9c1f5ddb08",
-          "FileSize": 5733494
+          "Url": "https://github.com/GhostlyDark/GLideN64/releases/download/2025-12-31/GLideN64-188e5fd-Windows-PJ64Legacy-Qt-x86.zip",
+          "FileName": "GLideN64-188e5fd-Windows-PJ64Legacy-Qt-x86.zip",
+          "FileHash": "849ae8e1e4c8e1e78b6d6f795c7cda6e",
+          "FileSize": 5736918
         }
       ],
       "FallbackUrls": null,
