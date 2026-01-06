@@ -398,6 +398,17 @@
           "frameBufferEmulation\\overscanNtscRight=4",
           "frameBufferEmulation\\overscanNtscBottom=3",
           "",
+          "[BANJO TOOIE]",
+          "generalEmulation\\enableLOD=0",
+          "textureFilter\\txCacheSize=1047527424",
+          "textureFilter\\txHiresTextureFileStorage=1",
+          "textureFilter\\txHiresEnable=1",
+          "frameBufferEmulation\\enableOverscan=1",
+          "frameBufferEmulation\\overscanNtscTop=6",
+          "frameBufferEmulation\\overscanNtscLeft=14",
+          "frameBufferEmulation\\overscanNtscRight=9",
+          "frameBufferEmulation\\overscanNtscBottom=8",
+          "",
           "[GOLDENEYE]",
           "generalEmulation\\enableLOD=0",
           "generalEmulation\\enableInaccurateTextureCoordinates=0",
@@ -729,6 +740,56 @@
       "FallbackUrls": null,
       "Files": {
         "Banjo-Kazooie_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\Banjo-Kazooie_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "BT Reloaded 4K",
+      "Description": "BT Reloaded HD texture pack",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "BT Reloaded HD"
+      ],
+      "Archive": true,
+      "InstalledSize": 247914113,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/BT-Reloaded/releases/download/v0.1.0/bt-reloaded-v0.1.0-gliden64-hts-4k.7z",
+          "FileName": "bt-reloaded-4k.7z",
+          "FileHash": "f2b40b82bf1b86c694e74f0bfba4d119",
+          "FileSize": 39977236
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "BANJO TOOIE_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\BANJO TOOIE_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "BT Reloaded HD",
+      "Description": "BT Reloaded HD texture pack, downscaled for 1080p",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "BT Reloaded 4K"
+      ],
+      "Archive": true,
+      "InstalledSize": 102591617,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/BT-Reloaded/releases/download/v0.1.0/bt-reloaded-v0.1.0-gliden64-hts-hd.7z",
+          "FileName": "bt-reloaded-hd.7z",
+          "FileHash": "5f7148df89c99794b7a2bd13ba07ecdb",
+          "FileSize": 16937153
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "BANJO TOOIE_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\BANJO TOOIE_HIRESTEXTURES.hts"
       },
       "Additions": null
     },
