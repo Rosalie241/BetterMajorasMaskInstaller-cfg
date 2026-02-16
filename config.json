@@ -473,7 +473,7 @@
     {
       "Name": "MMN64HD",
       "Description": "Nerrel's Majora's Mask HD texture pack",
-      "Enabled": true,
+      "Enabled": false,
       "ReadOnly": false,
       "DisableOnSelected": [
         "MM Reloaded 4K",
@@ -511,7 +511,7 @@
     {
       "Name": "MM Reloaded 4K",
       "Description": "MMHD with improved multi-language support and faithful textures (formerly MLE)",
-      "Enabled": false,
+      "Enabled": true,
       "ReadOnly": false,
       "DisableOnSelected": [
         "MMN64HD",
