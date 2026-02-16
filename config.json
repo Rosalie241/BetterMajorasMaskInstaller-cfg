@@ -518,26 +518,26 @@
         "MM Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 21952441828,
+      "InstalledSize": 22076710723,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.0/mm-reloaded-v11.0.0-gliden64-hts-4k.7z.001",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.2/mm-reloaded-v11.0.2-gliden64-hts-4k.7z.001",
           "FileName": "mm-reloaded.7z.001",
-          "FileHash": "052ee9842b34fffd022c632bcfca4423",
+          "FileHash": "b100420628a8fa7543e960a46a6ace34",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.0/mm-reloaded-v11.0.0-gliden64-hts-4k.7z.002",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.2/mm-reloaded-v11.0.2-gliden64-hts-4k.7z.002",
           "FileName": "mm-reloaded.7z.002",
-          "FileHash": "d6c4e06106e77855c24eb7323c34f1e3",
+          "FileHash": "34ed0b8d4f327401645551b0e27335bb",
           "FileSize": 2145386496
         },
         {
-          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.0/mm-reloaded-v11.0.0-gliden64-hts-4k.7z.003",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.2/mm-reloaded-v11.0.2-gliden64-hts-4k.7z.003",
           "FileName": "mm-reloaded.7z.003",
-          "FileHash": "9d863b88edbdc98df33da6a2d7007099",
-          "FileSize": 584311831
+          "FileHash": "80cb96ac3050ac8a628dae746bb108ab",
+          "FileSize": 619448482
         }
       ],
       "FallbackUrls": null,
@@ -556,14 +556,14 @@
         "MMN64HD"
       ],
       "Archive": true,
-      "InstalledSize": 3913387492,
+      "InstalledSize": 3914370883,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.0/mm-reloaded-v11.0.0-gliden64-hts-hd.7z",
+          "Url": "https://github.com/GhostlyDark/MM-Reloaded/releases/download/v11.0.2/mm-reloaded-v11.0.2-gliden64-hts-hd.7z",
           "FileName": "mm-reloaded-hd.7z",
-          "FileHash": "258089359904a3bc1318d8cfe55930ad",
-          "FileSize": 691579888
+          "FileHash": "69daec9e66cdde37945ec3d4ffd3d386",
+          "FileSize": 690442526
         }
       ],
       "FallbackUrls": null,
