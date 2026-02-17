@@ -953,6 +953,56 @@
       "Additions": null
     },
     {
+      "Name": "Mario Craft 64 4K",
+      "Description": "Hypatia's Mario Craft 64 pack for Super Mario 64",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "Mario Craft 64 HD"
+      ],
+      "Archive": true,
+      "InstalledSize": 3226133497,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/Mario-Craft-64/releases/download/v1.3/mario-craft-64-v1.3-gliden64-hts-4k.7z",
+          "FileName": "Mario-Craft-64-4K.7z",
+          "FileHash": "e1cf805fb5f683df66f8fb721e352f34",
+          "FileSize": 776193781
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "SUPER MARIO 64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SUPER MARIO 64_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
+      "Name": "Mario Craft 64 HD",
+      "Description": "Hypatia's Mario Craft 64 pack for Super Mario 64, downscaled for 1080p",
+      "Enabled": false,
+      "ReadOnly": false,
+      "DisableOnSelected": [
+        "Mario Craft 64 4K"
+      ],
+      "Archive": true,
+      "InstalledSize": 508371961,
+      "ExtractAll": false,
+      "Urls": [
+        {
+          "Url": "https://github.com/GhostlyDark/Mario-Craft-64/releases/download/v1.3/mario-craft-64-v1.3-gliden64-hts-hd.7z",
+          "FileName": "Mario-Craft-64-HD.7z",
+          "FileHash": "df14b2e051d82c6a34da609cfd42b4b9",
+          "FileSize": 124667649
+        }
+      ],
+      "FallbackUrls": null,
+      "Files": {
+        "SUPER MARIO 64_HIRESTEXTURES.hts": "Plugin\\GFX\\cache\\SUPER MARIO 64_HIRESTEXTURES.hts"
+      },
+      "Additions": null
+    },
+    {
       "Name": "MK64 Reloaded 4K",
       "Description": "Mario Kart 64 HD texture pack",
       "Enabled": false,
