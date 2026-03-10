@@ -705,14 +705,14 @@
         "BK Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 302223456,
+      "InstalledSize": 2080941003,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/BK-Reloaded/releases/download/v0.1.1/bk-reloaded-v0.1.1-gliden64-hts-4k.7z",
+          "Url": "https://github.com/GhostlyDark/BK-Reloaded/releases/download/v0.2.0/bk-reloaded-v0.2.0-gliden64-hts-4k.7z",
           "FileName": "bk-reloaded-4k.7z",
-          "FileHash": "677884e9c2bb3be3f44d54de590c1479",
-          "FileSize": 26822020
+          "FileHash": "33ff55c6f3605162834223a8cea11b18",
+          "FileSize": 358060210
         }
       ],
       "FallbackUrls": null,
@@ -730,14 +730,14 @@
         "BK Reloaded 4K"
       ],
       "Archive": true,
-      "InstalledSize": 109453152,
+      "InstalledSize": 224072331,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/BK-Reloaded/releases/download/v0.1.1/bk-reloaded-v0.1.1-gliden64-hts-hd.7z",
+          "Url": "https://github.com/GhostlyDark/BK-Reloaded/releases/download/v0.2.0/bk-reloaded-v0.2.0-gliden64-hts-hd.7z",
           "FileName": "bk-reloaded-hd.7z",
-          "FileHash": "33b47904535b38637f1d4c709bf72563",
-          "FileSize": 12977015
+          "FileHash": "a2941b2cd0b2494fa87b7b6c39c5455f",
+          "FileSize": 33239690
         }
       ],
       "FallbackUrls": null,
@@ -755,14 +755,14 @@
         "BT Reloaded HD"
       ],
       "Archive": true,
-      "InstalledSize": 247914113,
+      "InstalledSize": 302531454,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/BT-Reloaded/releases/download/v0.1.0/bt-reloaded-v0.1.0-gliden64-hts-4k.7z",
+          "Url": "https://github.com/GhostlyDark/BT-Reloaded/releases/download/v0.1.1/bt-reloaded-v0.1.1-gliden64-hts-4k.7z",
           "FileName": "bt-reloaded-4k.7z",
-          "FileHash": "f2b40b82bf1b86c694e74f0bfba4d119",
-          "FileSize": 39977236
+          "FileHash": "95a952e554a5d50ba3fcd2734c800f06",
+          "FileSize": 42828507
         }
       ],
       "FallbackUrls": null,
@@ -780,14 +780,14 @@
         "BT Reloaded 4K"
       ],
       "Archive": true,
-      "InstalledSize": 102591617,
+      "InstalledSize": 138164350,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/BT-Reloaded/releases/download/v0.1.0/bt-reloaded-v0.1.0-gliden64-hts-hd.7z",
+          "Url": "https://github.com/GhostlyDark/BT-Reloaded/releases/download/v0.1.1/bt-reloaded-v0.1.1-gliden64-hts-hd.7z",
           "FileName": "bt-reloaded-hd.7z",
-          "FileHash": "5f7148df89c99794b7a2bd13ba07ecdb",
-          "FileSize": 16937153
+          "FileHash": "72d91fe4ddf58d4617b10c8c0156df8f",
+          "FileSize": 19384662
         }
       ],
       "FallbackUrls": null,
