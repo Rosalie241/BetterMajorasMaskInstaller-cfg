@@ -1059,14 +1059,14 @@
       "ReadOnly": false,
       "DisableOnSelected": null,
       "Archive": true,
-      "InstalledSize": 1189363563,
+      "InstalledSize": 1191078187,
       "ExtractAll": false,
       "Urls": [
         {
-          "Url": "https://github.com/GhostlyDark/SSB-Reloaded/releases/download/v2.0.0/ssb-reloaded-v2.0.0-gliden64-hts.7z",
+          "Url": "https://github.com/GhostlyDark/SSB-Reloaded/releases/download/v2.0.1/ssb-reloaded-v2.0.1-gliden64-hts.7z",
           "FileName": "SSB-Reloaded.7z",
-          "FileHash": "f23c704e3b0db98dcf239f58fe19e5e2",
-          "FileSize": 163349384
+          "FileHash": "257ba03f258888bb9720cf862c65a1bc",
+          "FileSize": 160318065
         }
       ],
       "FallbackUrls": null,
